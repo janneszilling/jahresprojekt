@@ -10,7 +10,7 @@ fetch(
   });
 
 let projectsData = JSON.parse(sessionStorage.getItem("projectsData"));
-console.log(projectsData);
+console.log(projectsData) || [];
 
 function getRandomInt(max) {
   return Math.floor(Math.random() * max);
