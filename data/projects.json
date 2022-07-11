@@ -1,1430 +1,1231 @@
 [
-    {
-        "id": "0001",
-        "titel": "Markabka",
-        "urheber": [
-            "Tabea Bratzke",
-            "Justine Flohr"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Dominik Wilhelm",
-        "beschreibung": "Für das Wahlpflichtmodul „Game Elements“ beschäftigten sich die Studierenden mit aktuellen Themen aus den Nachrichten. Ihre Ideen sollten anschließend in die Entwicklung eines analogen Spiels einfließen. Im Rahmen dessen entstand das Spiel „Markabka“ (Somali: „Schiff“), welches sich mit der Flüchtlingsthematik auseinandersetzt. Mit Geschick und Durchsetzungsvermögen müssen kleine Spielsteine auf einem wackeligen Untergrund platziert und über das Spielfeld befördert werden.",
-        "vorschaubild": "2020_0001_Markabka_01.jpg",
-        "bilder": [
-            "assets/0001/2020_0001_Markabka_02.jpg",
-            "assets/0001/2020_0001_Markabka_03.jpg",
-            "assets/0001/2020_0001_Markabka_04.jpg",
-            "assets/0001/2020_0001_Markabka_05.jpg",
-            "assets/0001/2020_0001_Markabka_06.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0002",
-        "titel": "Fotografie",
-        "urheber": [
-            "Lucas Kahl"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Gregor Theune",
-        "beschreibung": "Das Modul „Audiovisuelle Gestaltung 1“ unterteilt sich in die beiden Kurse Foto- und Audiotechnik. In der Unit „Fototechnik“ beschäftigten sich die Studierenden mit unterschiedlichen Bereichen der Fotografie und lernten gleichzeitig den Umgang mit moderner Kameratechnik. Die erlangten Fähigkeiten wurden anschließend in der Architektur-, Portrait- und Sachfotografie angewandt.",
-        "vorschaubild": "2020_0002_Fotografie_01.jpg",
-        "bilder": [
-            "assets/0002/2020_0002_Fotografie_02.jpg",
-            "assets/0002/2020_0002_Fotografie_03.jpg",
-            "assets/0002/2020_0002_Fotografie_04.jpg",
-            "assets/0002/2020_0002_Fotografie_05.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0003",
-        "titel": "Kleines Sommerlied",
-        "urheber": [
-            "Lucas Kahl"
-        ],
-        "raum": "Studio",
-        "dozent": "Prof. Martin Kreyßig",
-        "beschreibung": "Das Modul „Audiovisuelle Gestaltung 1“ unterteilt sich in die beiden Kurse Foto- und Audiotechnik. In der zweiten Übung der Veranstaltung „Audiotechnik“ nimmt der Studierende seine Zuhörer mit auf eine Reise in ein Kriegsdrama. Er vertont das Gedicht „Kleines Sommerlied“ von Wolfgang Herrndorf mit Musik und Soundeffekten und schafft so eine besondere, akustische Stimmung.",
-        "vorschaubild": "",
-        "bilder": [],
-        "videos": [],
-        "audios": [
-            "assets/0003/2020_0003_KleinesSommerlied_01.wav"
-        ]
-    },
-    {
-        "id": "0004",
-        "titel": "Plakatgestaltung zum Thema Architektur",
-        "urheber": [
-            "Dustin Winkler",
-            "Lucas Kahl",
-            "Shanice Eichberger",
-            "Miriam-Charlotte Bork"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Gregor Theune",
-        "beschreibung": "Die Erstsemester-Studierenden der Medieninformatik entwickelten für den Kurs „Mediengestaltung“ unterschiedliche Plakate zum Themenfeld „Architektur“. Dabei wählten sie jeweils das Bild eines Gebäudes aus und gestalteten mithilfe der im Kurs erlernten Fähigkeiten ein ansprechendes Design.",
-        "vorschaubild": "2020_0004_PlakatgestaltungArchitektur_01.jpg",
-        "bilder": [
-            "assets/0004/2020_0004_PlakatgestaltungArchitektur_02.jpg",
-            "assets/0004/2020_0004_PlakatgestaltungArchitektur_03.jpg",
-            "assets/0004/2020_0004_PlakatgestaltungArchitektur_04.jpg",
-            "assets/0004/2020_0004_PlakatgestaltungArchitektur_05.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0005",
-        "titel": "Redesign Tag der offenen Tür",
-        "urheber": [
-            "Adrian Bircken",
-            "Rieke Johannson"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Gregor Theune",
-        "beschreibung": "Die Gestaltung eines Ausstellungskonzepts für den Studieninformationstag der Hochschule Harz stellte das Ziel des Kurses „Gestaltung im räumlichen Kontext“. Im Rahmen dessen mussten sich die Masterstudierenden mit Fragen bezüglich des Ausstellungsanlasses, dessen Ziele und Kernaussagen, der Zielgruppe und insbesondere den Ausstellungsobjekten auseinandersetzen. Die abgebildeten Projekte spiegeln dabei die Vielseitigkeit der Ideen, aber auch Umsetzungsmöglichkeiten wider. Auf der einen Seite wurden aufwendige 3D-Renderings und -Videos angefertigt, auf der anderen Seite entstanden die Entwürfe unter der Verwendung von Grafikprogrammen.",
-        "vorschaubild": "2020_0005_Redesign_01.jpg",
-        "bilder": [
-            "assets/0005/2020_0005_Redesign_02.jpg",
-            "assets/0005/2020_0005_Redesign_04.jpg",
-            "assets/0005/2020_0005_Redesign_05.jpg",
-            "assets/0005/2020_0005_Redesign_06.jpg",
-            "assets/0005/2020_0005_Redesign_07.jpg"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=xi4lnLHP9cw"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0006",
-        "titel": "Eisbären-Memory",
-        "urheber": [
-            "Lisa Franze"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Gregor Theune",
-        "beschreibung": "Die BFO „Spezielle Themen der Infografik“ behandelte im Wintersemester 2019/20 den Themenkomplex „Klimawandel“. Die Studierende dieses Projekts entschied sich für die Entwicklung eines Eisbären-Memory, in dem sie sowohl grundlegende Information als auch die problematische Situation der Tiere durch den Klimawandel visualisiert. Dadurch erlangt das Gedächtnisspiel eine weitere Bildungsebene und eignet sich nicht nur für Kinder ab 10 Jahre, sondern auch für Erwachsene.",
-        "vorschaubild": "2020_0006_Memory_01.jpg",
-        "bilder": [
-            "assets/0006/2020_0006_Memory_02.png",
-            "assets/0006/2020_0006_Memory_03.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0007",
-        "titel": "Virtuelles Wasser",
-        "urheber": [
-            "Saskia Hustinx"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Gregor Theune",
-        "beschreibung": "Die BFO „Spezielle Themen der Infografik“ behandelte im Wintersemester 2019/20 den Themenkomplex „Klimawandel“. In diesem Projekt wurde das Thema „Virtuelles Wasser“ und damit der indirekte Wasserverbrauch bei der Herstellung von Produkten behandelt. Aus verschiedenen Darstellungsansätzen entstand eine Onepager-Website, welche dem Betrachter durch ihre narrative Struktur und interaktiven Möglichkeiten die Bedeutung des Konsumbewusstseins näherbringt.",
-        "vorschaubild": "2020_0007_VirtuellesWasser_01.png",
-        "bilder": [
-            "assets/0007/2020_0007_VirtuellesWasser_02.png",
-            "assets/0007/2020_0007_VirtuellesWasser_03.png",
-            "assets/0007/2020_0007_VirtuellesWasser_04.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0008",
-        "titel": "App zu Emissionen im Alltag",
-        "urheber": [
-            "Lisa Renz"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Gregor Theune",
-        "beschreibung": "Die BFO „Spezielle Themen der Infografik“ behandelte im Wintersemester 2019/20 den Themenkomplex „Klimawandel“. Der abgebildete App-Prototyp befasst sich dabei mit dem Energieverbrauch und den daraus resultierenden CO2-Emissionen im Alltag. Die Studierende stellt dabei mit interaktiven Diagrammen und erklärenden Texten eine Verbindung zwischen sozialen Milieus und verschiedenen Kategorien her. Dadurch kann sich der Betrachter nicht nur selbst einordnen, sondern seinen eigenen Energieverbrauch überdenken.",
-        "vorschaubild": "2020_0008_InfoApp_01.png",
-        "bilder": [
-            "assets/0008/2020_0008_InfoApp_02.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=D_Nqp3Nn5fM"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0009",
-        "titel": "Dark Eyes",
-        "urheber": [
-            "Tim Teuchtler"
-        ],
-        "raum": "Studio",
-        "dozent": "Prof. Martin Kreyßig, Lothar Werthschulte, Marc Wiebach",
-        "beschreibung": "Die Aufgabe der Lehrveranstaltung „Postproduktion“ war die Projektdefinition aus verschiedenen Bereichen der 2D-Animation zu einem frei wählbaren Thema und dessen Umsetzung mit After Effects. Dafür wurde ein Intro (Main-Title-Design) für eine fiktionale Serie „Dark Eyes“ konzipiert. Der Stil der knapp 70 Sekunden langen Animation ist an die amerikanische Krimi-Serie „True Detective“ angelehnt und visuell von der fotografischen Doppelbelichtung inspiriert. Ausgehend von Greenscreen-Aufnahmen im S-Log3-Farbmodus, die zuerst in Davinci Resolve entwickelt werden müssen, wurde mit After Effects über Alphamasken und Chroma-Keys das gesamte Compositing durchgeführt.",
-        "vorschaubild": "0009_0.png",
-        "bilder": [
-            "assets/0009/0009_1.png",
-            "assets/0009/0009_2.png",
-            "assets/0009/0009_3.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=yuwmTqc3Pp8"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0010",
-        "titel": "Die Sucht nach Social Media",
-        "urheber": [
-            "Silas Opel"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Im Modul „Computeranimation“ soll ausgehend vom vorgegebenen Thema „Social Net“ eine 3D-Animation erstellt werden.\n Diese 3D-Animation beschäftigt sich konkret mit der Sucht nach Social Media. Dafür wurde basierend auf den Hauptcharakter des Animationsfilm Baymax einen sehr realistische 3D-Character ausgedacht, modelliert, texturiert und anschließend mit einem Rigg (Skelett) zur Animation versehen. Der Charakter versucht an sein in einer Glaskugel eingeschlossenes Handy zu gelangen, was ihn aber misslingt. Die Umsetzung der 3D-Animation erfolgte ausschließlich in Blender.",
-        "vorschaubild": "0010_0.png",
-        "bilder": [
-            "assets/0010/0010_1.png",
-            "assets/0010/0010_2.png",
-            "assets/0010/0010_3.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=uvyv1Irmg_A"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0011",
-        "titel": "Capter Zero: First Contact",
-        "urheber": [
-            "Benjamin Wehlend"
-        ],
-        "raum": "Studio",
-        "dozent": "Prof. Martin Kreyßig",
-        "beschreibung": "In der Veranstaltung „Audiovisuelle Gestaltung 2“ soll jeder Studierende einen eigenen Film planen, drehen und schneiden. Die Abgabe „Chapter Zero: First Contact“ ist als Hommage an die Serie „Stranger Things“ zu sehen und fungiert als eine Art Vorgeschichte für diese Serie. In einem Untergrundlabor kommt es zu einem Stromausfall und unheilvolle Geräusche ertönen. \n Die zwei gegenwärtigen Wissenschaftler versuchen zu flüchten, doch nur einer überlebt. Der entstandene Film überzeugt durch mysteriöse Story und gruseligen Sounds, obwohl oder gerade weil der „unsichtbare Feind“ nie zu sehen ist.",
-        "vorschaubild": "0011_0.png",
-        "bilder": [
-            "assets/0011/0011_1.png",
-            "assets/0011/0011_2.png",
-            "assets/0011/0011_3.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=THpAZzoBxnQ"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0012",
-        "titel": "Webentwicklung für das Harzbikehaus",
-        "urheber": [
-            "Gina Schlott"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Die Studierende hat sich selbst für ihr Eigenprojekt die Aufgabenstellung „Webentwicklung für das Harzbikehaus“ gestellt. In dem Zusammenhang wurde eine neue Webseite für das Unternehmen „Harzbikehaus“ designt und entwickelt, denn die Inhalte der vorhandenen Seite waren nicht mehr aktuell und nicht für mobile Geräte optimiert. Das neue Design besticht durch moderne, aber auch rustikale Elemente mit viel Weißraum und grün aktzentuierten Farbflächen. Im Projekt wurden Prototypen und Wireframes erstellt und an der konkrete Implementierung und Online-Setzen der Seite gearbeitet.",
-        "vorschaubild": "0012_0.png",
-        "bilder": [
-            "assets/0012/0012_1.png",
-            "assets/0012/0012_2.png",
-            "assets/0012/0012_3.png",
-            "assets/0012/0012_4.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0013",
-        "titel": "Shit",
-        "urheber": [
-            "Navin Nadesan"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Im Modul „Computeranimation“ soll ausgehend vom vorgegebenen Thema „Social Net“ eine 3D-Animation erstellt werden. Entstanden ist eine 43-sekündige 3D-Animation mit dem Titel „Shit“, die sich dem Überthema humorvoll und mit einem Augenzwinkern nähert. Der 3D-Charaker geht durch eine Straße mit dem Handy und schaut sich Bilder in einer sozialen Plattform an. Dabei beschwert er sich, dass man mittlerweile für jeden Scheiß Likes bekommt. Dann macht er ein Foto von einem Hundehufen, postet dieses und fragt sich „Wie viele Likes man dafür wohl bekommt?“",
-        "vorschaubild": "0013_0.png",
-        "bilder": [
-            "assets/0013/0013_1.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=omcfxJpBTbI"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0014",
-        "titel": "Not Alone",
-        "urheber": [
-            "Lisa Renz"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Im Modul „Computeranimation“ soll ausgehend vom vorgegebenen Thema „Social Net“ eine 3D-Animation erstellt werden. Die 3D-Animation „Not Alone“ zeigt innerhalb von 40 Sekunden auf charmante und niedliche Art und Weise auf, dass man mit einer starken sozialen Community nie alleine ist und dass Freunde einem immer helfen – auch in Notlagen. Die Protagonisten der Animation sind Muffins. Der „Oh-wie-süß“-Faktor ist also garantiert.",
-        "vorschaubild": "0014_0.png",
-        "bilder": [
-            "assets/0014/0014_1.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=vJwuYHU70wY"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0015",
-        "titel": "Censored",
-        "urheber": [
-            "Jewgenij Deshkin"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "In Modul „Computeranimation“ soll ausgehend vom vorgegebenen Thema „Social Net“ eine 3D-Animation erstellt werden. Diese Abgabe beinhaltet eine kurzweilige, aber dennoch kritische Auseinandersetzung mit dem Thema. Die Animation ist als Anspielung für Beliebtheit von kurzen Videos im Netz mit 20 Sekunden bewusst kurzgehalten. Die 3D-Figur stolpert während des Laufes über Zensurbalken und fällt zu Boden, wobei der Balken die Verletzung verdeckt und das „Video“ gelikt wird.",
-        "vorschaubild": "0015_0.png",
-        "bilder": [
-            "assets/0015/0015_1.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=k-B0gjXjp-g"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0016",
-        "titel": "The Social Net",
-        "urheber": [
-            "Philipp Schneider"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Im Modul „Computeranimation“ soll ausgehend vom vorgegebenen Thema „Social Net“ eine 3D-Animation erstellt werden. Es entstand eine 60-sekündige 3D-Animation, die auf das umstrittene Thema „Handy am Steuer“ anspielt. Eine Fliege schreibt Nachrichten am Handy, während sie umherfliegt. Auf einmal landet die Fliege in einem Spinnennetz und ist nun im Netz gefangen.",
-        "vorschaubild": "0016_1.png",
-        "bilder": [
-            "assets/0016/0016_2.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=E3Jpph_pQ-w"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0017",
-        "titel": "Moving Bauhaus",
-        "urheber": [
-            "Alexandra Herbersdorf",
-            "Simon Nebl",
-            "Sofia Schwerdtfeger (HS Harz)",
-            "außerdem Hayato Kusakizako & Mitsuki Sawano (Tokyo University of Technology)"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Dominik Wilhelm",
-        "beschreibung": "Im Kurs „International Game Studio“ war das Ziel, zum 100. Jubiläum (2019) die Philosophie und den künstlerischen Ansatz des Bauhauses mit dem Medium “Videogames” zu verbinden. Dieses Projekt entstand in Kooperation mit der Tokyo University of Technology und wurde durch das Goethe-Institut in Tokyo gesponsert. Hier entwickelten die Studierenden der Medien- und Spielekonzeption und die Studierenden aus Tokyo gemeinsam ein Platformer Game, welches durch die Kunstwerke von Wassily Kandinsky, Künstler und Lehrer der Kunstschule Bauhaus, inspiriert ist.",
-        "vorschaubild": "0017_1.jpg",
-        "bilder": [
-            "assets/0017/0017_2.png",
-            "assets/0017/0017_3.jpg",
-            "assets/0017/0017_4.jpg"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=OO6bibN37Qw"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0018",
-        "titel": "Ohne Titel",
-        "urheber": [
-            "Eiko Eickhoff",
-            "Jan-Ole Finkeisen",
-            "Erik Fabian Gottschall",
-            "Fabian Müller",
-            "Jan Sanewski",
-            "Tim Teuchtler",
-            "Leonie Vogel"
-        ],
-        "raum": "Studio",
-        "dozent": "Prof. Martin Kreyßig",
-        "beschreibung": "In der BFO „Motion Capture“ sollte mithilfe des Motion-Capturing-Systems der Hochschule Harz Aufnahmen gemacht werden. Diese sollen im weiteren Verlauf des Projektes zur Erstellung eines kurzen 3D Animationsfilms genutzt werden. Der Kurzfilm handelt von einem Roboter, der in einer wüstenähnlichen Gegend umherirrt. Der Akku des Roboters lässt immer mehr nach. Auf einmal sieht er ein weißes Licht am Himmel und macht sich auf den Weg zum Licht. Allerdings lässt sein Akku auf den Weg dorthin nach und er schafft es nicht das Licht zu erreichen.",
-        "vorschaubild": "0018_1.png",
-        "bilder": [
-            "assets/0018/0018_2.png",
-            "assets/0018/0018_3.png",
-            "assets/0018/0018_4.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=dsNnp9fXWho"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0019",
-        "titel": "Heimvorteil",
-        "urheber": [
-            "Jan-Ole Finkeisen (Projektleiter)",
-            "Erik Gottschall",
-            "Paul Piper",
-            "Jan Sanewski",
-            "Tim Teuchtler"
-        ],
-        "raum": "Studio",
-        "dozent": "Prof. Martin Kreyßig",
-        "beschreibung": "Innerhalb des Jahresprojektes beschäftigten sich eine Gruppe von Studierenden damit, mehrere kleine Videos zu produzieren. Diese sind Teil einer Kampagne, um die Region Harz und deren Vorzüge in den Vordergrund zu stelle. Das Projekt Heimvorteil Harz entstand in Kooperation mit der Agentur Ideengut aus Halberstadt.",
-        "vorschaubild": "0019_1.PNG",
-        "bilder": [
-            "assets/0019/0019_2.PNG",
-            "assets/0019/0019_3.PNG"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0020",
-        "titel": "100 Jahre Bauhaus",
-        "urheber": [
-            "Shanice Hoffmann",
-            "Florian Schorch-Zunder",
-            "Christopher Thiel"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Gregor Theune",
-        "beschreibung": "In der BFO „Ausgewählte Themen der Gestaltung“ hatten die Studierende der Medien- und Spielekonzeption die Aufgabe, Plakate zum vorgegebenen Thema „Bauhaus“ zu entwerfen. Anlass war dabei das 100-jährige Jubiläum der Bauhaus-Bewegung. Dabei ließen die Studierende ihrer Kreativität freien Lauf.",
-        "vorschaubild": "0020_Hoffmann_4.jpg",
-        "bilder": [
-            "assets/0020/0020_Hoffmann_5.jpg",
-            "assets/0020/0020_Florian_1.jpg",
-            "assets/0020/0001.jpg",
-            "assets/0020/0004.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0021",
-        "titel": "Deckel gegen Polio",
-        "urheber": [
-            "Ahn",
-            "Eiko Eickhoff",
-            "Jan-Ole Finkeisen",
-            "Anna Gerold",
-            "Merlin Günther",
-            "Erik Gottschall",
-            "Gina Schlott"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Gregor Theune",
-        "beschreibung": "In der BFO „Typografie“ hatte jeder Studierende die Aufgabe, Plakate zu einer fiktiven Kampagne „500 Deckel gegen Polio“ zu gestalten. Dabei wurden den Teilnehmern neben gestalterischem Wissen auch die Arbeitsschritte innerhalb einer Agentur näher gebracht.",
-        "vorschaubild": "0021_Gerold_3.jpg",
-        "bilder": [
-            "assets/0021/0021_Merlin_1.jpg",
-            "assets/0021/0021_Merlin_5.jpg",
-            "assets/0021/0021_Gina_3.jpg",
-            "assets/0021/0021_Gina_9.png",
-            "assets/0021/0021_JanOle_5.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0022",
-        "titel": "Corporate Identity mit Design Manual",
-        "urheber": [
-            "Denice Graupeter",
-            "Kevin Kleiber",
-            "Oskar Stipani",
-            "Jannes Stipani"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Gregor Theune",
-        "beschreibung": "In der Veranstaltung „Corporate Design“ sollte jeder Studierende einen Briefbogen, ein Design-Manual und Visitenkarten gestalten. Hierbei lernten die Studierenden etwas über die wichtigsten Gestaltungsmittel und setzten ihr neues Wissen ein, um ein eigenes Corporate Design zu erstellen.",
-        "vorschaubild": "0002.jpg",
-        "bilder": [
-            "assets/0022/0001.jpg",
-            "assets/0022/0003.jpg",
-            "assets/0022/0004.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0023",
-        "titel": "Plakatgestaltung „Medieninformatik“",
-        "urheber": [
-            "Emilia-Maria Bothe",
-            "Johanna Kirsch",
-            "Oska Stipani"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Gregor Theune",
-        "beschreibung": "Im Modul „Form und Farbe“ setzten sich die Studierenden mit der Aufgabe auseinander, ein Plakat über ihren Studiengang „Medieninformatik“ zu gestalten. Dabei kombinierten sie typografische Elemente mit geometrischen Formen, um die Inhalte des Studiums kreativ darzustellen.",
-        "vorschaubild": "0001.jpg",
-        "bilder": [
-            "assets/0023/0002.jpg",
-            "assets/0023/0003.jpg",
-            "assets/0023/0004.jpg",
-            "assets/0023/0005.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0024",
-        "titel": "Typografie im räumlich zeitlichen Kontext",
-        "urheber": [
-            "Lea Brock",
-            "Ann-Kristin Hargus",
-            "Rieke Johannson",
-            "Karoline Weber"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Gregor Theune",
-        "beschreibung": "Die Studierenden im Modul „Typografie“ hatten die Aufgabe, ein selbstgewähltes Schriftstück, wie beispielsweise ein Märchen, in räumlichen und zeitlichen Kontext typografisch und kreativ aufzuarbeiten. Dabei wurden von den Studierenden verschiedene Schriftarten und andere textliche Elemente miteinander kombiniert, um das gewählte Schriftstück anschaulich zu visualisieren.",
-        "vorschaubild": "01.png",
-        "bilder": [
-            "assets/0024/0006.jpg",
-            "assets/0024/0010.jpg",
-            "assets/0024/0012.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0025",
-        "titel": "3D-Produktdesign",
-        "urheber": [
-            "Aykut Sevim"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Christopher Jung",
-        "beschreibung": "In seinem Eigenprojekt setzte sich der Studierende unter dem Thema des dreidimensionalen Produktdesigns kreativ mit dem Programm Cinema 4D auseinander. Dabei entwickelte er mehrere futuristisch anmutende Sphären, die mithilfe von Lichteffekten effektvoll in Szene gesetzt werden.",
-        "vorschaubild": "Wood_Sphere.jpg",
-        "bilder": [
-            "assets/0025/Lightning_Sphere_Big.jpg",
-            "assets/0025/Destroyed.jpg",
-            "assets/0025/17_12_20_ShinyCoreV3.jpg"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=nX6W1K4YnAs"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0026",
-        "titel": "Leaf Pray Love",
-        "urheber": [
-            "Vardan Sharma",
-            "Gia Bao Hoang",
-            "Benjamin Adelsberger",
-            "Jacqueline Kohrs",
-            "Samira Jakobs",
-            "Niklas Trenkel"
-        ],
-        "raum": "Studio",
-        "dozent": "Prof. Martin Kreyßig",
-        "beschreibung": "In der BFO „Motion Capture“ sollte mithilfe des Motion-Capturing-Systems der Hochschule ein kurzer 3D Animationsfilm erstellt werden. Die Studierenden schrieben hierfür ein Drehbuch und gestalteten die Modelle, die mithilfe von MoCap-Daten animiert wurden und nach der Postproduktion in einer dreiminütigen Animation resultierten.",
-        "vorschaubild": "01.png",
-        "bilder": [
-            "assets/0026/02.png",
-            "assets/0026/03.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=YypOki-Oxpk"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0027",
-        "titel": "Crossmedia für den Tag der offenen Tür",
-        "urheber": [
-            "Jennifer Cook",
-            "Teresa Gärtner",
-            "Christian Glatzel",
-            "Daniel Halangk",
-            "Linda Hube",
-            "Sebastian Kettler",
-            "Yanqi Li",
-            "Phillip Müller",
-            "Melissa Murawski",
-            "Marieke Polnik",
-            "Sainab Sakhizada",
-            "Amadeus Scherkenbach",
-            "Andre Schliecker",
-            "Nele Weber"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Prof. Daniel Ackermann, Dipl. Des. Christopher Jung",
-        "beschreibung": "Im Rahmen des Kurses „Crossmediale Strategien“ entwickelten die Studierenden eine crossmediale Werbekampagne zum Tag der offenen Tür für die Studiengänge „Medieninformatik“ und „Medien- und Spielekonzeption“. Der Kurs teilte sich dabei in die fünf Teams Print, Content, Website, VR-Projekt und Projektleitung auf, um die gleichzeitige Arbeit an den verschiedenen Aufgaben zu organisieren und koordinieren.",
-        "vorschaubild": "01.png",
-        "bilder": [
-            "assets/0027/02.png",
-            "assets/0027/03.png",
-            "assets/0027/04.png",
-            "assets/0027/05.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0028",
-        "titel": "Fliegen in VR",
-        "urheber": [
-            "Tanja Witke"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Für ihr Eigenprojekt entschied sich die Studierende, eine eigene Flugsimulation mithilfe einer VR-Brille zu erschaffen. Dazu erarbeitete sie eine eigene Bewegungsvorrichtung, über die der Benutzer mittels Achsenkippung in einer ansprechenden Umgebung der dazu entwickelten Unity-Applikation durch Ringe fliegen kann.",
-        "vorschaubild": "finaleDemo.jpg",
-        "bilder": [
-            "assets/0028/finaleKonstruktion.jpg",
-            "assets/0028/Kontroller.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0029",
-        "titel": "Partikel / VFX",
-        "urheber": [
-            "Fenya Troch"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Im Eigenprojekt der Studierenden nutzt diese Motion-Capture-Technologien und ein Partikelsystem zur Anpassung und Darstellung von Emotionen. Dabei wird zum Beispiel Wasser als Trauer durch gebückte, schleppende Haltung des gezeigten Charakters verkörpert. Neben dieser Darstellung wurden auch weitere Partikel-Visualisierungen (z.T. auch rhythmischer Art) erstellt.",
-        "vorschaubild": "001.png",
-        "bilder": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=TQePYNwujdI",
-            "https://www.youtube.com/watch?v=OIMh6VMPowc",
-            "https://www.youtube.com/watch?v=Dz2VT2LfvUQ",
-            "https://www.youtube.com/watch?v=Z0IhplqHlSo",
-            "https://www.youtube.com/watch?v=lKZmqwqD_bM"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0030",
-        "titel": "„SnaleTale“ - ein interaktiver Hörspielteppich",
-        "urheber": [
-            "Mona Holtmann",
-            "Samira Jakobs",
-            "Jacqueline Kohrs",
-            "Ivo Max Müllner",
-            "Vardan Sharma"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Martin Kreyßig, Prof. Daniel Ackermann",
-        "beschreibung": "Die Projektgruppe „Schnalproduction“ erarbeitete im Rahmen der Vorlesungen Projektmanagement und HCI ein Konzept zur non-linearen sowie interaktiven Erzählung von Kindergeschichten. Diese wurden Mittels HTML als ein Spielteppich zum Erleben interaktiver Geschichten geformt und fordert den Leser zum aktiven Miterleben der Geschichte durch Entscheidungsknoten auf.",
-        "vorschaubild": "02.png",
-        "bilder": [
-            "assets/0030/03.png",
-            "assets/0030/01.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0031",
-        "titel": "„photo-booth“ - ein mobiles Fotostudio",
-        "urheber": [
-            "Philipp Trenz"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Das Eigenprojekt des Studierenden beschreibt den Aufbau und Gebrauch des mobilen Fotostudios „photo-booth“ als Schnittstelle privater und professioneller Privatfotografie. Eine vordefinierte Umgebung wird so vom Nutzer der Anwendung gewählt. Das Projekt stellt so die Software zur Implementierung einer „Photobooth“ bereit, welche die Steuerung einer Fotokamera, die Anzeige der Fotografien und die Interaktion für den Nutzer ermöglichen soll.",
-        "vorschaubild": "0002.jpg",
-        "bilder": [
-            "assets/0031/0003.jpg",
-            "assets/0031/0004.jpg"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=8RYfn6AoT70"
-        ],
-        "audios": [
-            "assets/0031/2020_0040_AugenInDerGrossstadt_01.wav"
-        ]
-    },
-    {
-        "id": "0032",
-        "titel": "nGlow",
-        "urheber": [
-            "Projektgruppe"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Dominik Wilhelm",
-        "beschreibung": "Die Projektgruppe rund um nGlow entwickelte das Adventure Game im Rahmen des Game Development Moduls. Im Videospiel steuert der Spieler den letzten Bewohner eines mystischen Planeten, der in Stillstand geraten ist. Das Videospiel wurde 2018 mit dem dritten Platz des Deutschen Computerspielpreises ausgezeichnet und wird seitdem durch UniGlow Entertainment weiterentwickelt.",
-        "vorschaubild": "nGlowDocBackground300dpi.jpg",
-        "bilder": [
-            "assets/0032/ruin_ideensammlung_1.png",
-            "assets/0032/Level_Design_v1.jpg",
-            "assets/0032/Character_Concept_01.jpg",
-            "assets/0032/playerviewScreenshot.png",
-            "assets/0032/some_mushrooms.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0033",
-        "titel": "A Long Way",
-        "urheber": [
-            "Anton Blumenstein"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Im Rahmen des Moduls Computeranimation erstellte der Studierende eine witzige Animation zur beschwerlichen Reise eines Steines, aus dem großen Ozean bis an den sonnigen Strand. Eine atmosphärische klangliche Inszenierung sowie authentische Lichteffekte erzeugen so eine lebhafte Unterwasserwelt, welche dem Zuschauer auf dieser einzigartigen Reise dargestellt wird.",
-        "vorschaubild": "",
-        "bilder": [
-            "assets/0033/01.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=ShoV7kaPOfY"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0034",
-        "titel": "Under Water",
-        "urheber": [
-            "Jessica Cramme"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Als Projektarbeit im Modul Computeranimation zeigt die Studierende die Reise eine Wasserblase, welche durch die tiefen eines Gewässers treibt. Begleitet von spannenden audiovisuellen Klängen wird der Zuschauer zu einer Unterwasserlichtung geführt. Dabei wurde der Gestaltungsstil durch einen kantigen Low-Poly-Stil sehr einfach angelegt und so an das Corporate Design der Medieninformatik angelehnt. Das Projekt entstand im Rahmen des \"Medieninformatik Flying Fish\", dem hochschulinternen Kreativwettbewerb des Studiengangs Medieninformatik.",
-        "vorschaubild": "03.png",
-        "bilder": [
-            "assets/0034/01.png",
-            "assets/0034/02.png",
-            "assets/0034/04.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=JYgu88HG4lI"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0035",
-        "titel": "Unknown Ocean",
-        "urheber": [
-            "Projektgruppe"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Dominik Wilhelm",
-        "beschreibung": "Die Projektarbeit „Unknown Ocean“ ist ein Sidescrolling Shoot ’em up mit Elementen aus verschiedenen Rogue-like Videospielen. Hierbei steuert der Spieler sein U-Boot immer tiefer hinab in die Gewässer eines unerforschten Ozeans voll feindseliger Kreaturen. Über den Verlauf eines Semesters entstand durch Kollaboration eines Teams unter dem Teamnamen „Handmade Sushi“ die erste spielbare Version des Videogames.",
-        "vorschaubild": "uo-title.png",
-        "bilder": [
-            "assets/0035/screen.png",
-            "assets/0035/uo-harbor.png",
-            "assets/0035/uo-results.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0036",
-        "titel": "Daydreams",
-        "urheber": [
-            "Projektgruppe"
-        ],
-        "raum": "Studio",
-        "dozent": "Prof. Martin Kreyßig",
-        "beschreibung": "Die gezeigte Motion-Capture-Animation zeigt eindrucksvoll, dass einfaches Storytelling genügt, um durch die Verkörperung von humoristischen Slapstick-Elementen die wesentlichen Möglichkeiten zur Umsetzung von Bewegungsaufzeichnungen einzufangen. Diese wurden durch verschiedene Musikelemente erweitert und ergänzen sich zu einer ansehnlichen 3D-Animation.",
-        "vorschaubild": "",
-        "bilder": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=fLT-U-F-DsA"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0037",
-        "titel": "Mechanism (AR)",
-        "urheber": [
-            "Linda Hube"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Das entwickelte AR-Game „Mechanism“ stellt als Puzzle-Game mit modularem Pipeline-System die spielerischen Elemente neuartiger Mixed-Reality-Anwendungen in den Vordergrund. Entwickelt für verschiedene mobile Anwendungsgeräte scheint das klassische Puzzle-Erlebnis im 3D-Raum völlig neue Möglichkeiten zu erfahren.",
-        "vorschaubild": "01.png",
-        "bilder": [
-            "assets/0037/02.png",
-            "assets/0037/03.png",
-            "assets/0037/video:-RxVuTcm7w8"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=Tn9J1t2nOxE"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0038",
-        "titel": "Generative Gestaltung",
-        "urheber": [
-            "Marcel Müller"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Die in der BFO „Ausgewählte Themen der generativen Gestaltung“ erstellte Anwendung zeigt die Möglichkeiten zur Erzeugung von spannenden, generativen Designs, welche durch die Veränderung von Parametern Gestalt erhalten und in ihrer Entstehung moduliert werden können. Zur Erzeugung des Canvas, sowie für die Anordnung der Bedienelemente wurden hierbei HTML und CSS verwendet.",
-        "vorschaubild": "001.png",
-        "bilder": [
-            "assets/0038/beispiel01.png",
-            "assets/0038/beispiel02.png",
-            "assets/0038/beispiel03.png",
-            "assets/0038/beispiel04.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0039",
-        "titel": "Passage",
-        "urheber": [
-            "Erik Bietz"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Martin Kreyßig, Marc Wiebach",
-        "beschreibung": "Der im Modul „Postproduktion“ entstandene Kurzfilm beschäftigt sich auf kreative Weise mit dem fiktiven Übergang vom Leben zum Tod. Der Studierende gestaltete dazu einen bunten Laubwald, durch welchen sich die Hauptfigur hindurchbewegt. Nach der Erstellung eines Storyboards wurde die Idee mithilfe des Rigging-Tools Duik in Adobe After Effects umgesetzt und animiert.",
-        "vorschaubild": "01.png",
-        "bilder": [
-            "assets/0039/03.png",
-            "assets/0039/04.png",
-            "assets/0039/05.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=kBThsOtQaJg"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0040",
-        "titel": "Augen in der Großstadt",
-        "urheber": [
-            "Lisa Renz"
-        ],
-        "raum": "Audiostudio",
-        "dozent": "Prof. Martin Kreyßig",
-        "beschreibung": "Die zweite Übung der Veranstaltung „Audiotechnik“ (Teil des Moduls „Audiovisuelle Gestaltung 1\") bietet mit den Schwerpunkten Assoziation, Interpretation, Sprache und Geräusche verschiedene Umsetzungsmöglichkeiten bei der Gestaltung des Gedichts „Augen in der Großstadt“ (von Kurt Tucholsky). In diesem Projekt dienten Filme wie „Blade Runner“ und „Ghost in the Shell“ als Inspriation, die den Fragen nachgehen, wie viel Menschlichkeit noch in einem Roboter (Menschmaschine) steckt und wodurch ein Mensch zum Menschen wird. Die maschinell klingende Sprecherstimme wird sowohl durch atmosphärische Tonelemente als auch den durch Synthesizer selbst erzeugten Rhythmus unterlegt.",
-        "vorschaubild": "",
-        "bilder": [],
-        "videos": [],
-        "audios": ["assets/0040/2020_0040_AugenInDerGrossstadt_01.wav"]
-    },
-    {
-        "id": "0041",
-        "titel": "slip away",
-        "urheber": [
-            "John-Sebastian Hetsch"
-        ],
-        "raum": "Studio",
-        "dozent": "Prof. Martin Kreyßig",
-        "beschreibung": "Das gezeigte Filmprojekt aus dem Modul „Audiovisuelle Gestaltung 2“ verbindet eine dramatische Erzählung mit Experimentalfilm-Elementen. Hierbei wird die Geschichte einer anfangs harmonischen Beziehung erzählt, welche durch die Aufdeckung einer Affäre zerüttet wird. Überflutet vom Gefühl der Haltlosigkeit durchlebt der Protagon eine Verkettung irrationaler Gedanken.",
-        "vorschaubild": "",
-        "bilder": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=4ia8bUabLUU"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0042",
-        "titel": "Global Game Jam 2020",
-        "urheber": [
-            "Studierende des MuSk-Masterstudiengangs sowie die Studierenden des Moduls \"Game Development\" im Medieninformatik-Studiengang"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Dominik Wilhelm",
-        "beschreibung": "Der Global Game Jam ist ein jährlich stattfindendes weltweites Event, bei dem auch die Hochschule Harz mitmacht. Dabei treffen sich die Studierenden ein Wochenende in der Hochschule und entwickelt innerhalb von 48 Stunden ein eigenes Spiel zu einem vorgegebenen Thema, im Jahr 2020 zum Thema \"Repair\". Die dabei entstandenen Spiele der Studierenden im Modul \"Spieleentwurf\" und dem Masterstudiengang sind frei zugänglich und auf der offiziellen Jam-Seite unter https://globalgamejam.org/2020/jam-sites/hochschule-harz-medieninformatikbsc-medien-und-spielekonzeption-ma/games abrufbar.",
-        "vorschaubild": "DSC_1256-2048x2048.jpg",
-        "bilder": [
-            "assets/0042/DSC_1287-2048x1365.jpg",
-            "assets/0042/DSC_1144-2048x1152.jpg",
-            "assets/0042/DSC_1251-2048x1365.jpg",
-            "assets/0042/DSC_1222-2048x1365.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0043",
-        "titel": "Partikelsysteme",
-        "urheber": [
-            "Erik Bietz",
-            "Saskia Hustinx",
-            "Pauline Lässig",
-            "Felix Altenhofen"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Daniel Ackermann",
-        "beschreibung": "Bei der BFO „Ausgewählte Themen der Computergrafik“ wurden verschiedenste Partikeleffekte analysiert, konzipiert und umgesetzt. Ein besonderer Aspekt war dabei die Umsetzung dieser Effekte in Realtime-Engines wie Unity oder Unreal. Die entstandenen Abgaben zeigen die kreative Umsetzung eigener Ideen in den Partikelsystemen der Engines.",
-        "vorschaubild": "",
-        "bilder": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=S5k9qB3s_50",
-            "https://www.youtube.com/watch?v=wWBZmxcDFOY"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0044",
-        "titel": "Lightwriting",
-        "urheber": [
-            "Lisa Renz",
-            "Annika Piechutta",
-            "Lisa Franze"
-        ],
-        "raum": "Studio",
-        "dozent": "Dipl. Des. Florian Fischer",
-        "beschreibung": "Als Übung innerhalb der Veranstaltung „Fototechnik“, die Teil des Moduls „Audiovisuelle Gestaltung 1“ ist, beschäftigten sich die Studierenden mit der Langzeitfotografie. Dabei sollte durch sogenanntes Light-Writing/-Painting der eigene Name mit Licht geschrieben oder spannende Skulpturen gemalt werden.",
-        "vorschaubild": "2017_0044_Lightwriting_Annika_01.jpg",
-        "bilder": [
-            "assets/0044/2017_0044_Lightwriting_01.jpg",
-            "assets/0044/lightwriting_lf.jpg",
-            "assets/0044/2017_0044_Lightwriting_Annika_02.JPG",
-            "assets/0044/2017_0044_Lightwriting_Annika_03.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0045",
-        "titel": "Der sicherste Ort",
-        "urheber": [
-            "Lena Sartorius",
-            "Matthias Koch"
-        ],
-        "raum": "Studio",
-        "dozent": "Prof. Martin Kreyßig",
-        "beschreibung": "Jedes Jahr im Sommersemester müssen sich die Zweitsemester-Studierenden der Medieninformatik der Herausforderung stellen, einen eigenen Kurzfilm zu planen und umzusetzen. Durch die Unterstützung eines kleinen Teams entstehen so Projekte wie „Der sicherste Ort“. Der teils abstrakte Film ist ein Aufruf dazu, zu überlegen, wieso man sich bestimmten Zwängen hingibt und wieso man oft das tut, was andere von einem erwarten, anstatt dass, was man wirklich will.",
-        "vorschaubild": "",
-        "bilder": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=zPCq85bABOk"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0046",
-        "titel": "Buchstaben-Muster",
-        "urheber": [
-            "Lisa Franze",
-            "Lisa Renz"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Christopher Jung",
-        "beschreibung": "In dem Modul „Mediengestaltung 1“ war die Aufgabe, spannende Entwürfe mithilfe der Buchstaben A-Z und vier Sonderzeichen einer Schriftart zu bilden. Dabei kam pro Seite nur ein Zeichen der vorgegebenen Schriftart zum Einsatz. Die Studierenden haben dabei den Umgang mit InDesign geschult und das Entwickeln von kontrastreichen Designs erlernt. Entstanden sind grafische Schwarz-Weiß-Kompositionen.",
-        "vorschaubild": "abc_uebersicht_lf.png",
-        "bilder": [
-            "assets/0046/abc_uebersicht_lr.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0047",
-        "titel": "Alphabet-Bilder",
-        "urheber": [
-            "Lisa Franze",
-            "Erik Bietz"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Christopher Jung",
-        "beschreibung": "In der Veranstaltung „Mediengestaltung 2“ sollten die Buchstaben-Formen in der „realen“ Welt wiedergefunden und fotografiert werden. Bei der Suche nach den abstrakten Formen mussten die Studierenden offen durch die Welt gehen. Die Ergebnisse zeigen spannende Einblicke in die Welt des Alphabets.",
-        "vorschaubild": "uebersicht_letter_lf.jpg",
-        "bilder": [
-            "assets/0047/alphabet_eb.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0048",
-        "titel": "nom. - no ordinary mug",
-        "urheber": [
-            "Astrid Holec",
-            "Erik Bietz",
-            "Pauline Lässig",
-            "Saskia Hustinx",
-            "Annika Piechutta",
-            "Felix Altenhofen",
-            "Lisa Franze"
-        ],
-        "raum": "Projektraum",
-        "dozent": "Prof. Martin Kreyßig, Valentin Kohlmeier",
-        "beschreibung": "Im Zuge der Lehrveranstaltungen „Projektmanagement & HCI“ bestand die Aufgabe darin, eine fiktive Agentur zu gründen und ein Agentur-Produkt zu entwickeln. Die Projektgruppe „mufflon.“ hat einen „smarten“ Thermobecher designt. Dieser ermöglicht es, ein eingefülltes Getränk auf eine angenehme Trinktemperatur zu erhitzen oder abzukühlen. Die dazu entwickelte App soll die Bedienung des Bechers unterstützen und die optimale User Experience gewährleisten.",
-        "vorschaubild": "nom_fakten.png",
-        "bilder": [
-            "assets/0048/nom_plakat.png",
-            "assets/0048/video:oM4dTtwFzKU",
-            "assets/0048/nom_app.png",
-            "assets/0048/nom_website.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=ygUULbQRg58"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0049",
-        "titel": "Social Credit System",
-        "urheber": [
-            "Ploypailin Bayer",
-            "Silas Opel",
-            "Matthias Koch",
-            "Lena Sartorius",
-            "Lisa Renz"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Rainer Rehak",
-        "beschreibung": "In der Veranstaltung war es die Aufgabe der Studierenden, sich mit einem gesellschaftlich relevanten und medienorientierten Thema auseinander zu setzen und dieses durch ein praktisches Projekt zu ergänzen. Die Gruppe behandelte primär das Bonitätssystem in China und setzten dieses in einer Webseite zur Bewertung der Kommilitonen während der Vorlesungszeit um. Durch positives oder negatives Verhalten sowie durch das Beantworten einer Umfrage wurden Punkte vergeben, die zu einem internen Ranking führten. Das gesellschaftskritische Projekt sorgte am Ende der Präsentation nicht nur für viel Diskussion, sondern gewann einige Wochen später außerdem den MINFF Classic 2019 unter dem Motto „Social Net“.",
-        "vorschaubild": "2019_0049_SCS_01.png",
-        "bilder": [
-            "assets/0049/2019_0049_SCS_02.png",
-            "assets/0049/2019_0049_SCS_03.png",
-            "assets/0049/2019_0049_SCS_04.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0050",
-        "titel": "MINFF Classic Award „Social Net“",
-        "urheber": [
-            "Lena Sartorius",
-            "Lisa Franze",
-            "Alexander Johr",
-            "Lisa Renz",
-            "Christoph Baumgart / Erik Masson / Lukas Kuppermann"
-        ],
-        "raum": "Audimax",
-        "dozent": "Prof. Martin Kreyßig, Prof. Daniel Ackermann, Prof. Dominik Wilhelm, Prof. Ph.D. Jürgen Singer, Prof. Eberhard Högerle",
-        "beschreibung": "Der MINFF Classic stand im Jahre 2019 unter dem Überthema „Social Net“. Die Zuschauer konnten verschiedenen Abgaben aus den Bereichen 2D & 3D Computeranimation, Gaming, aber auch Cross Media bestaunen. Zu den Gewinner gehörten: Webanwendung „Social Credit System“, das Multiplayer-Videospiel „Espersquids vs. Kingblowfish“ und die filmische Parodie „Yohgio X Influencer“. Mehr zum MINFF Award 2019 unter http://www.medieninformatik.de/minff-award-2019/",
-        "vorschaubild": "2019_0050_MinffClassic_01.jpg",
-        "bilder": [
-            "assets/0050/2019_0050_MinffClassic_02.jpg"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=xIKltQxiCr0",
-            "https://www.youtube.com/watch?v=9MEHwYyso-4",
-            "https://www.youtube.com/watch?v=1YYF-SqpscY"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0051",
-        "titel": "MINFF Jam Award „Ansicht“",
-        "urheber": [
-            "Gruppe 1: Jakob Harder / Wilhelm Tischbein / Sarah Louise Rickmann / Katharina Kasprzak / Martin Just,\n Gruppe 2: Lisa Renz / Lena Sartorius / Sabine Heyne / Shanice Hoffmann / Dustin Winkler,\n Gruppe 3: Eiko Eickhoff / Saskia Hustinx / Johanna Scheffler / Diana Mazmanyan,\n Gruppe 4: Johanna Kirsch / John-Sebastian Hetsch / Laura Buberti / Christoph Baumgart / Erik Masson"
-        ],
-        "raum": "Audimax",
-        "dozent": "Prof. Martin Kreyßig, Prof. Daniel Ackermann, Prof. Dominik Wilhelm, Prof. Ph.D. Jürgen Singer, Prof. Eberhard Högerle",
-        "beschreibung": "Die Teilnehmenden des MINFF Jam 2019 fanden sich in ausgelosten Projektgruppen zusammen und erstellten innerhalb von 24h zu dem vorgegebenen Thema „Ansicht“ gemeinsam verschiedenste Multimedia-Beiträge. Unter den Gewinnern waren: das Spiel kooperative Spiel „Buntglas - Get your drunk ass home“, die 2D-Animation „Synesthesia - Farbiges Hören“ und der Kurzfilm „K.I.D.S. - Campusleiche“. Mehr zum MINFF Award 2019 unter http://www.medieninformatik.de/minff-award-2019/",
-        "vorschaubild": "",
-        "bilder": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=K16emeA9aGg",
-            "https://www.youtube.com/watch?v=k3KIFbZkktE",
-            "https://www.youtube.com/watch?v=nFsW94u0ris",
-            "https://www.youtube.com/watch?v=e-kziOADuGQ"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0052",
-        "titel": "Space Next",
-        "urheber": [
-            "Saskia Hustinx"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Prof. Martin Kreyßig, Marc Wiebach",
-        "beschreibung": "Bei diesem Kurzfilm, welcher im Modul „Postproduktion“ entstanden ist, handelt es sich um einen Werbefilm für eine fiktive Reiseagentur namens „SpaceNext“, welche Reisen ins Weltall anbietet. Dabei werden einige Kernpunkte und Vorteile einer solchen Reise spielerisch dargestellt. Die dazu genutzten Figuren und Umgebungen wurden in Illustrator und Affinity-Designer erstellt und mit Adobe After-Effects animiert.",
-        "vorschaubild": "01.png",
-        "bilder": [
-            "assets/0052/02.png",
-            "assets/0052/03.png"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=gegli1pswH4"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0053",
-        "titel": "Karl May Museum",
-        "urheber": [
-            "Mandy Kratina",
-            "Katja Krone",
-            "Sandra Löffler",
-            "Jutta Schwarz",
-            "Susann Stieler",
-            "Melanie Stiller"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Prof. Eberhard Högerle",
-        "beschreibung": "Die Aufgabe dieses Jahresprojekts bestand darin, eine Multimedia-CD für das Karl-May-Museum in Radebeul zu entwickeln. Dabei sollten die zentralen Ausstellungsthemen Indianer Nordamerikas, Karl May- Leben und Werk sowie Radebeul als Heimatstadt Karl Mays aufgegriffen werden. Ursprünglich sollte nur das Erscheinungsbild aufgebessert werden, doch am Ende entstand eine Webseite mit unzähligen Texten, Bild, Ton- und Videosequenzen. Außerdem ermöglichten QuicktimeVR-Aufnahmen dem Nutzer, sich in ausgewählten Ausstellungsräumen virtuell zu bewegen und zu informieren.",
-        "vorschaubild": "2003_0053_KarlMey_01.jpg",
-        "bilder": [
-            "assets/0053/2003_0053_KarlMey_02.jpg",
-            "assets/0053/2003_0053_KarlMey_03.jpg",
-            "assets/0053/2003_0053_KarlMey_04.jpg",
-            "assets/0053/2003_0053_KarlMey_05.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0054",
-        "titel": "Jurapark",
-        "urheber": [
-            "Henner Wöhler",
-            "Johannes Bastian",
-            "Sabine Sarfert",
-            "Sabine Meyerding",
-            "Björn Wöldecke",
-            "Gunnar Neuendorf"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Prof. Eberhard Högerle",
-        "beschreibung": "In diesem Projekt stand die Entwicklung verschiedener Multimediakonzepte für den geplanten Internationalen JuraPark Harz im Fokus. Die Idee war eine Vereinheitlichung von Wissenschaft und Erlebnispark sowie die Visualisierung von Fossilienfunden und die einzigartige Anordnung von Erdschichten. Am Ende konzipierten die Studieren ein Dinoscope, eine virtuelle Fahrt durch den Zeittunnel und den Park sowie ein neues Präsentationsdesign.",
-        "vorschaubild": "2006_0054_JuraPark_01.jpg",
-        "bilder": [
-            "assets/0054/2006_0054_JuraPark_02.jpg"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=ZUB-kYYvrGM"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0055",
-        "titel": "Medienkonzept Stiftskirche Gernrode",
-        "urheber": [
-            "Sascha Reinhold",
-            "David Paschke",
-            "Julia Behrendt",
-            "Carsten Achtermann",
-            "Sven Skoczylas",
-            "Marcus Thöricht"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Prof. Eberhard Högerle",
-        "beschreibung": "Das Projektziel der Medieninformatik (Bachelor) und Tourism and Destination Management (Master) Studierende war ein multimediales Konzept für die Stiftskirche St. Cyriakus Gernrode. Zu Verbesserung der touristischen Infrastruktur und gewinnbringende Vermarktung entstanden Infobroschüren, Veranstaltungskalender und Beschilderungen in einem neuen Corporate Design. Außerdem wurde der Online-Auftritt aktualisiert und ein virtueller Rundgang mit dem sogennanten PDA (Personal Digital Assistant) erarbeitet.",
-        "vorschaubild": "2008_0055_Gernrode_01.jpg",
-        "bilder": [
-            "assets/0055/2008_0055_Gernrode_02.jpg",
-            "assets/0055/2008_0055_Gernrode_03.jpg",
-            "assets/0055/2008_0055_Gernrode_04.jpg",
-            "assets/0055/2008_0055_Gernrode_05.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0056",
-        "titel": "Medienbörse Kulturwissenschaft",
-        "urheber": [
-            "[keine Angaben]"
-        ],
-        "raum": "Projektraum",
-        "dozent": "Prof. Eberhard Högerle, Prof. Martin Kreyßig",
-        "beschreibung": "Im Januar 2011 fand die Medienbörse der Industrie, ein Vergleich der Medienstudiengänge in Sachsen-Anhalt, in Halle statt. Als Vorbereitung dafür gestalteten die Studierenden des Jahresprojekts einen Stand und dessen inhaltliche sowie visuelle Präsentation.\n Für eine nachhaltige Verwendung wurden die Bildwände und kleinen Informationstürme so konzipiert, dass sie variabel und skalierbar sind und an das schon bestehende Mero System der Hoschule Harz andocken bzw. erweitern. Die Dauerpräsentation der Bibliothek, des Studienganges Medieninformatik sowie des Rechen- und des Sprachzentrums sollte später dauerhaft in der Papierfabrik (Haus 9) aufgebaut werden.",
-        "vorschaubild": "2011_0056_Medienboerse_01.jpg",
-        "bilder": [
-            "assets/0056/2011_0056_Medienboerse_02.jpeg",
-            "assets/0056/2011_0056_Medienboerse_03.jpeg",
-            "assets/0056/2011_0056_Medienboerse_04.jpeg",
-            "assets/0056/2011_0056_Medienboerse_05.jpeg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0057",
-        "titel": "Neustrukturierung der Ausstellung \"Cinema\" im Schloss Ballenstedt",
-        "urheber": [
-            "Anne Körner",
-            "Tobias Wegner",
-            "Christoph Peisker",
-            "Gregor Rackwitz",
-            "Adrian Winterfeld",
-            "Nikolas Khurana"
-        ],
-        "raum": "Studio",
-        "dozent": "Dipl. Des. Florian Fischer, Prof. Eberhard Högerle, Prof. Martin Kreyßig",
-        "beschreibung": "In Zusammenarbeit mit der DEFA-Stiftung aus Berlin bestand das Jahresprojekt für die Studierenden primär aus der Neukonzeption der Filmaustellung im Schloss Ballenstedt. Im Zuge dessen wurden fotografische Sachaufnahmen der ausgestellten Geräte gemacht und eine neuer Webauftritten mit multimedialen Elementen geschaffen. Außerdem entschied sich die Gruppe dazu, eine Namensänderung in \"Filmmuseum Schloss Ballenstadt\" durchzuführen.",
-        "vorschaubild": "2012_0057_Ballenstedt_01.jpg",
-        "bilder": [
-            "assets/0057/2012_0057_Ballenstedt_02.png",
-            "assets/0057/2012_0057_Ballenstedt_03.jpg",
-            "assets/0057/2012_0057_Ballenstedt_04.jpg",
-            "assets/0057/2012_0057_Ballenstedt_05.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0058",
-        "titel": "Das alte Zollhaus Hitzacker",
-        "urheber": [
-            "[keine Angaben]"
-        ],
-        "raum": "Projektraum",
-        "dozent": "Prof. Eberhard Högerle",
-        "beschreibung": "Bereits 2006 arbeiteten Studierende der Medieninformatik im Rahmen des Jahresprojekts für das Zollhaus Hitzacker und konzipierten dabei ein Multimediamodul als \"Virtuelles Stadtmodell\". Die neue Projektgruppe sollte nun neue Möglichkeiten der multimedialen Museums- und Stadtführung durch interaktive Informationsvermittlung und Erschließung neuer Zielgruppen erschaffen. Als Konzept einer mobilen und interaktiven Präsentationsplattform vernetzten sie die Museums- und Stadtinhalte in einer App. Hinzukamen weitere Webinhalte sowie Printmaterialien.",
-        "vorschaubild": "2013_0058_Zollhaus_01.jpg",
-        "bilder": [
-            "assets/0058/2013_0058_Zollhaus_02.jpg",
-            "assets/0058/2013_0058_Zollhaus_03.jpg",
-            "assets/0058/2013_0058_Zollhaus_03.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0059",
-        "titel": "Computational Photography",
-        "urheber": [
-            "Sven Bischoff",
-            "Mandy Fischer",
-            "Thomas Lüttich",
-            "Nancy Nordmann",
-            "Dominci Schiller"
-        ],
-        "raum": "3D-Lab",
-        "dozent": "Prof. Eberhard Högerle, Prof. Ph.D. Jürgen Singer",
-        "beschreibung": "Die Aufgabe für das Jahresprojekt Computational Photography bestand darin, einen Bildausschnitt automatisiert durch einen passenden, aus einem anderen Bild kommenden Ausschnitt zu ersetzen. Als Ersatz für den Bildbereich sollten Bilder aus Bilddatenbanken aus dem Web, wie zum Beispiel von Flickr, Facebook, Picasa und ähnliche dienen. Ziel ist dabei, dass die relevanten Bilder automatisiert gefiltert werden und das neue Bild ebenso automatisiert generiert und ausgegeben wird, ohne, dass ein Nutzer Eingaben oder Einstellungen vornehmen muss.",
-        "vorschaubild": "2013_0059_CP_010.jpg",
-        "bilder": [
-            "assets/0059/2013_0059_CP_020.jpg",
-            "assets/0059/2013_0059_CP_030.jpg",
-            "assets/0059/2013_0059_CP_040.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0060",
-        "titel": "Ausstellung Harzburger Front",
-        "urheber": [
-            "[keine Angaben]"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Prof. Eberhard Högerle",
-        "beschreibung": "Die Stadt Bad Harzburg stellt sich ihrer Geschichte und plante eine Ausstellung zur historisch-politischen Entwicklung der sog. Harzburger Front im Jahr 1931 in den Wandhallen des Kurparks. Die Jahresprojektgruppe entwickelte gemeinsam mit den Historikern des Geschichtsvereins \"Spurensuche\" ein Austellungskonzept, das dem Geschehen, aber auch den besonderen Räumlichkeiten der Wandhalle, entspricht.",
-        "vorschaubild": "2009_0060_HarzburgerFront_01.jpg",
-        "bilder": [
-            "assets/0060/2009_0060_HarzburgerFront_020.jpg",
-            "assets/0060/2009_0060_HarzburgerFront_03.JPG",
-            "assets/0060/2009_0060_HarzburgerFront_04.JPG"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0061",
-        "titel": "Bundesgartenschau-Pavilion 2015",
-        "urheber": [
-            "Tatjana Panarat",
-            "Katharina",
-            "Johannes Herbst"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Prof. Eberhard Högerle",
-        "beschreibung": "Für die Veranstaltung \"Ausstellungs- und Museumskonzepte\" gestalteten die Studierende einen Pavillion für die Bundesgartenschau 2015.",
-        "vorschaubild": "2013_0061_Buga_030.jpg",
-        "bilder": [
-            "assets/0061/2013_0061_Buga_010.jpg",
-            "assets/0061/2013_0061_Buga_020.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0062",
-        "titel": "Bonhoeffer-Ausstellung",
-        "urheber": [
-            "Julia Wessle",
-            "Christina Thomas",
-            "Nicole Rüde",
-            "Lukas Siegmon",
-            "Lisa Manthei"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Prof. Eberhard Högerle",
-        "beschreibung": "Im Rahmen des Jahresprojekts wurde die Ausstellung rund um die Familie Bonhoeffer in ihrem Ferienhaus in Friedrichsbrunn neukonzipiert und gestaltet. Die Studierenden bereiteten Texte und Bilder auf, entwickelten ein neues Corporate Design (Logo, Farbe) und erstellten Print- und Werbematerialien (Flyer, Roll-Ups, Homepage). Außerdem wurde die Austellung durch neue Exponate und eine Wandkarte mit den Ausflugszielen der Familie erweitert. Mehr zur Eröffnung der Bonhoeffer-Ausstellung unter http://www.medieninformatik.de/bonhoeffer-ausstellung-in-friedrichsbrunn-eroeffnet/",
-        "vorschaubild": "2014_0062_Bonhoeffer_01.jpg",
-        "bilder": [
-            "assets/0062/2014_0062_Bonhoeffer_02.jpg",
-            "assets/0062/2014_0062_Bonhoeffer_03.jpg",
-            "assets/0062/2014_0062_Bonhoeffer_04.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0063",
-        "titel": "Corporate Identity Medieninformatik",
-        "urheber": [
-            "Mathias Mielke",
-            "Caroline Rühling",
-            "Franziska Jedding",
-            "Monika-Sophie Wohlgemuth",
-            "Norman Henges",
-            "Lan Huong Nguyen"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Dipl. Des. Florian Fischer, Prof. Eberhard Högerle, Prof. Ph.D. Jürgen Singer",
-        "beschreibung": "Nachdem die Corporate Identity der Hochschule Harz erneuert wurde, war es auch notwendig den Auftritt der Medieninformatik an die neuen Maßstäbe anzupassen. Die Jahresprojektgruppe sorgte deshalb dafür, dass ein neuer Styleguide inklusive eines neuen Logos erstellt wurde. Des Weiteren programmierten sie den Medieninformatik-Blog unter Berücksichtigung der technischen als auch neuen formalen Standards.",
-        "vorschaubild": "2014_0063_CI-MI_01.jpg",
-        "bilder": [
-            "assets/0063/2014_0063_CI-MI_020.jpg",
-            "assets/0063/2014_0063_CI-MI_030.jpg",
-            "assets/0063/2014_0063_CI-MI_04.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0064",
-        "titel": "Messestand Medieninformatik",
-        "urheber": [
-            "Mareike Gerloff",
-            "Christopher Hentrich",
-            "Marcel Jürß",
-            "Nils Mathias",
-            "Marcel Müller",
-            "Denise Wenzel"
-        ],
-        "raum": "3D-Lab",
-        "dozent": "Prof. Eberhard Högerle, Prof. Ph.D. Jürgen Singer",
-        "beschreibung": "Gemeinsam mit dem Messebauer \"Banse + Grohmann\" sollten die Studierenden bis zum Tag der offenen Tür im Sommer 2015 einen Messestand mit dem neuen Corporate Design der Hochschule und des Studiengangs konzipieren. Für das Jahresprojekt mussten sie sich somit zunächst mit Ausstellungskonzepten (Materialien, Design u.ä.) befassen. Im Anschluss gestalteten sie ihren eigenen Stand und integrierten dabei in die Multi-Touch-Bildschirme ein interaktives Programm, durch welches man allgemeine Informationen in Form von Interviews abrufen kann.",
-        "vorschaubild": "2015_0064_Messestand_01.jpg",
-        "bilder": [
-            "assets/0064/2015_0064_Messestand_02.jpg",
-            "assets/0064/2015_0064_Messestand_03.jpg",
-            "assets/0064/2015_0064_Messestand_04.jpg",
-            "assets/0064/2015_0064_Messestand_05.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0065",
-        "titel": "Ausstellung Kloster Ilsenburg",
-        "urheber": [
-            "Jessica Cramme",
-            "Luisa Drews",
-            "Deniese Gebhardt",
-            "Johannes Koch"
-        ],
-        "raum": "Projektraum",
-        "dozent": "Prof. Eberhard Högerle",
-        "beschreibung": "Dieses Jahresprojekt fokussierte sich darauf, einen Ausstellungsraum im Benediktinerkloster Ilsenburg zu gestalten mit dem Ziel, die Aufenthaltszeit von Wanderern und Touristen in Ilsenburg zu erhöhen. Dabei mussten die Themen Nachhaltigkeit, Waldnutzung im Harz und Hans Dietrich von Zanthie integriert werden. Die Gruppe entschied sich dazu auf der einen Seite eine eher emotionale Wand anzulegen, die den Besuchern den Wald auf der Gefühlsebene nahebringt und gleichzeitig Hauptaugenmerk des Raumes ist. Sie steht im bewussten Gegensatz zu der recht technisch und theoretisch anmutenden Infografik auf der angrenzenden Wand.",
-        "vorschaubild": "2016_0065_KlosterIlsenburg_01.jpg",
-        "bilder": [
-            "assets/0065/2016_0065_KlosterIlsenburg_02.jpg",
-            "assets/0065/2016_0065_KlosterIlsenburg_03.jpg",
-            "assets/0065/2016_0065_KlosterIlsenburg_04.jpg"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0066",
-        "titel": "Hitzacker Interface",
-        "urheber": [
-            "Christian Schmalisch",
-            "Michael Wruck",
-            "Holger Lorenz",
-            "Petra Röse",
-            "Ivonne Bartock",
-            "Remo Fyda",
-            "Jörg Bauersfeld",
-            "Sebastian Goedecke"
-        ],
-        "raum": "Projektraum",
-        "dozent": "Prof. Eberhard Högerle, Prof. Martin Kreyßig",
-        "beschreibung": "Ziel dieses Projekts war es, ein virtuelles Stadtmodell für das Museum \"Altes Zollhaus\" in Hitzacker zu entwickeln und als Dauerexponat im Museum zu integrieren. Mit Hilfe eines \"sprechenden\", interaktiven Stadtmodells soll die Entwicklung der Stadt \"Hitzacker\" aufgezeigt und in Verbindung mit Personen und deren Biografie das Alltagsleben einzelner Berufsgruppen am Modell vorgestellt werden. Die multimediale Präsentation der Stadtgeschichte Hitzackers erforderte einen Balanceakt zwischen mittelalterlicher Architektur und moderner Technik.",
-        "vorschaubild": "2006_0066_HitzackerInterface_01.jpg",
-        "bilder": [],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0067",
-        "titel": "Entenangeln",
-        "urheber": [
-            "Jessica Wymark",
-            "Charlie Fecher"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Simon Adler",
-        "beschreibung": "Dieses Projekt wurde erstellt von dem Team Charlien Fecher und Jessica Wymark und angefertigt bei Prof. Dr.-Ing. Simon Adler in der BFO Ausgewählte Themen der Mixed Reality. Für diese Abgabe galt es eine Art Jahrmarktstand in der Welt der Virtual Reality aufzubauen und umzusetzen. In ihrer gemeinsamen Arbeit in der Erstellung von 3D Modellen und der Entwicklung des Codes, sodass es auch spielbar ist, haben diese zwei Studentinnen ein Schauplatz in dem Entwicklungsprogramm Unity kreiert, welches sich mit mittels einer VR-Brille bedienen lässt.",
-        "vorschaubild": "duckies.png",
-        "bilder": [
-            "assets/0067/Ducks_screenshot.png",
-            "assets/0067/duckies.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0068",
-        "titel": "Bouncing Ball",
-        "urheber": [
-            "Julius Borkowski"
-        ],
-        "raum": "Multimedia Lab",
-        "dozent": "Daniel Ackermann",
-        "beschreibung": "Dies ist ein Beispieltext für die Projekt. Dieser sollte circa 3-4 Sätze lang sein und die wesentlichen Aspekte des Projektes umfassen.",
-        "vorschaubild": "",
-        "bilder": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=KLJY0cJc_FM"
-        ],
-        "audios": []
-    },
-    {
-        "id": "0069",
-        "titel": "You Want",
-        "urheber": [
-            "Cassandra Schmidt"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Gregor Theune",
-        "beschreibung": "Dies ist ein Beispieltext für die Projekt. Dieser sollte circa 3-4 Sätze lang sein und die wesentlichen Aspekte des Projektes umfassen.",
-        "vorschaubild": "Plakat1.JPG",
-        "bilder": [
-            "assets/0069/Plakat1.JPG",
-            "assets/0069/Plakat2.JPG"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0070",
-        "titel": "Medieninformatik Plakat",
-        "urheber": [
-            "Cassandra Schmidt"
-        ],
-        "raum": "Grafik Lab",
-        "dozent": "Gregor Theune",
-        "beschreibung": "Dies ist ein Beispieltext für die Projekt. Dieser sollte circa 3-4 Sätze lang sein und die wesentlichen Aspekte des Projektes umfassen.",
-        "vorschaubild": "Abgabe-PS11.png",
-        "bilder": [
-            "assets/0070/Abgabe-PS11.png"
-        ],
-        "videos": [],
-        "audios": []
-    },
-    {
-        "id": "0071",
-        "titel": "Gedicht",
-        "urheber": [
-            "Cassandra Schmidt"
-        ],
-        "raum": "Sprecherkabine",
-        "dozent": "Martin Kreyßig",
-        "beschreibung": "Dies ist ein Beispieltext für die Projekt. Dieser sollte circa 3-4 Sätze lang sein und die wesentlichen Aspekte des Projektes umfassen.",
-        "vorschaubild": "",
-        "bilder": [],
-        "videos": [],
-        "audios": [
-            "assets/0071/cassandra_schmidt_uebung2.wav"
-        ]
-    }
+  {
+    "id": "0001",
+    "titel": "Markabka",
+    "urheber": ["Tabea Bratzke", "Justine Flohr"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Dominik Wilhelm",
+    "beschreibung": "Für das Wahlpflichtmodul „Game Elements“ beschäftigten sich die Studierenden mit aktuellen Themen aus den Nachrichten. Ihre Ideen sollten anschließend in die Entwicklung eines analogen Spiels einfließen. Im Rahmen dessen entstand das Spiel „Markabka“ (Somali: „Schiff“), welches sich mit der Flüchtlingsthematik auseinandersetzt. Mit Geschick und Durchsetzungsvermögen müssen kleine Spielsteine auf einem wackeligen Untergrund platziert und über das Spielfeld befördert werden.",
+    "vorschaubild": "2020_0001_Markabka_01.jpg",
+    "bilder": [
+      "assets/0001/2020_0001_Markabka_02.jpg",
+      "assets/0001/2020_0001_Markabka_03.jpg",
+      "assets/0001/2020_0001_Markabka_04.jpg",
+      "assets/0001/2020_0001_Markabka_05.jpg",
+      "assets/0001/2020_0001_Markabka_06.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0002",
+    "titel": "Fotografie",
+    "urheber": ["Lucas Kahl"],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Gregor Theune",
+    "beschreibung": "Das Modul „Audiovisuelle Gestaltung 1“ unterteilt sich in die beiden Kurse Foto- und Audiotechnik. In der Unit „Fototechnik“ beschäftigten sich die Studierenden mit unterschiedlichen Bereichen der Fotografie und lernten gleichzeitig den Umgang mit moderner Kameratechnik. Die erlangten Fähigkeiten wurden anschließend in der Architektur-, Portrait- und Sachfotografie angewandt.",
+    "vorschaubild": "2020_0002_Fotografie_01.jpg",
+    "bilder": [
+      "assets/0002/2020_0002_Fotografie_02.jpg",
+      "assets/0002/2020_0002_Fotografie_03.jpg",
+      "assets/0002/2020_0002_Fotografie_04.jpg",
+      "assets/0002/2020_0002_Fotografie_05.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0003",
+    "titel": "Kleines Sommerlied",
+    "urheber": ["Lucas Kahl"],
+    "raum": "Studio",
+    "dozent": "Prof. Martin Kreyßig",
+    "beschreibung": "Das Modul „Audiovisuelle Gestaltung 1“ unterteilt sich in die beiden Kurse Foto- und Audiotechnik. In der zweiten Übung der Veranstaltung „Audiotechnik“ nimmt der Studierende seine Zuhörer mit auf eine Reise in ein Kriegsdrama. Er vertont das Gedicht „Kleines Sommerlied“ von Wolfgang Herrndorf mit Musik und Soundeffekten und schafft so eine besondere, akustische Stimmung.",
+    "vorschaubild": "",
+    "bilder": [],
+    "videos": [],
+    "audios": ["assets/0003/2020_0003_KleinesSommerlied_01.wav"]
+  },
+  {
+    "id": "0004",
+    "titel": "Plakatgestaltung zum Thema Architektur",
+    "urheber": [
+      "Dustin Winkler",
+      "Lucas Kahl",
+      "Shanice Eichberger",
+      "Miriam-Charlotte Bork"
+    ],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Gregor Theune",
+    "beschreibung": "Die Erstsemester-Studierenden der Medieninformatik entwickelten für den Kurs „Mediengestaltung“ unterschiedliche Plakate zum Themenfeld „Architektur“. Dabei wählten sie jeweils das Bild eines Gebäudes aus und gestalteten mithilfe der im Kurs erlernten Fähigkeiten ein ansprechendes Design.",
+    "vorschaubild": "2020_0004_PlakatgestaltungArchitektur_01.jpg",
+    "bilder": [
+      "assets/0004/2020_0004_PlakatgestaltungArchitektur_02.jpg",
+      "assets/0004/2020_0004_PlakatgestaltungArchitektur_03.jpg",
+      "assets/0004/2020_0004_PlakatgestaltungArchitektur_04.jpg",
+      "assets/0004/2020_0004_PlakatgestaltungArchitektur_05.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0005",
+    "titel": "Redesign Tag der offenen Tür",
+    "urheber": ["Adrian Bircken", "Rieke Johannson"],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Gregor Theune",
+    "beschreibung": "Die Gestaltung eines Ausstellungskonzepts für den Studieninformationstag der Hochschule Harz stellte das Ziel des Kurses „Gestaltung im räumlichen Kontext“. Im Rahmen dessen mussten sich die Masterstudierenden mit Fragen bezüglich des Ausstellungsanlasses, dessen Ziele und Kernaussagen, der Zielgruppe und insbesondere den Ausstellungsobjekten auseinandersetzen. Die abgebildeten Projekte spiegeln dabei die Vielseitigkeit der Ideen, aber auch Umsetzungsmöglichkeiten wider. Auf der einen Seite wurden aufwendige 3D-Renderings und -Videos angefertigt, auf der anderen Seite entstanden die Entwürfe unter der Verwendung von Grafikprogrammen.",
+    "vorschaubild": "2020_0005_Redesign_01.jpg",
+    "bilder": [
+      "assets/0005/2020_0005_Redesign_02.jpg",
+      "assets/0005/2020_0005_Redesign_04.jpg",
+      "assets/0005/2020_0005_Redesign_05.jpg",
+      "assets/0005/2020_0005_Redesign_06.jpg",
+      "assets/0005/2020_0005_Redesign_07.jpg"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=xi4lnLHP9cw"],
+    "audios": []
+  },
+  {
+    "id": "0006",
+    "titel": "Eisbären-Memory",
+    "urheber": ["Lisa Franze"],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Gregor Theune",
+    "beschreibung": "Die BFO „Spezielle Themen der Infografik“ behandelte im Wintersemester 2019/20 den Themenkomplex „Klimawandel“. Die Studierende dieses Projekts entschied sich für die Entwicklung eines Eisbären-Memory, in dem sie sowohl grundlegende Information als auch die problematische Situation der Tiere durch den Klimawandel visualisiert. Dadurch erlangt das Gedächtnisspiel eine weitere Bildungsebene und eignet sich nicht nur für Kinder ab 10 Jahre, sondern auch für Erwachsene.",
+    "vorschaubild": "2020_0006_Memory_01.jpg",
+    "bilder": [
+      "assets/0006/2020_0006_Memory_02.png",
+      "assets/0006/2020_0006_Memory_03.png"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0007",
+    "titel": "Virtuelles Wasser",
+    "urheber": ["Saskia Hustinx"],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Gregor Theune",
+    "beschreibung": "Die BFO „Spezielle Themen der Infografik“ behandelte im Wintersemester 2019/20 den Themenkomplex „Klimawandel“. In diesem Projekt wurde das Thema „Virtuelles Wasser“ und damit der indirekte Wasserverbrauch bei der Herstellung von Produkten behandelt. Aus verschiedenen Darstellungsansätzen entstand eine Onepager-Website, welche dem Betrachter durch ihre narrative Struktur und interaktiven Möglichkeiten die Bedeutung des Konsumbewusstseins näherbringt.",
+    "vorschaubild": "2020_0007_VirtuellesWasser_01.png",
+    "bilder": [
+      "assets/0007/2020_0007_VirtuellesWasser_02.png",
+      "assets/0007/2020_0007_VirtuellesWasser_03.png",
+      "assets/0007/2020_0007_VirtuellesWasser_04.png"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0008",
+    "titel": "App zu Emissionen im Alltag",
+    "urheber": ["Lisa Renz"],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Gregor Theune",
+    "beschreibung": "Die BFO „Spezielle Themen der Infografik“ behandelte im Wintersemester 2019/20 den Themenkomplex „Klimawandel“. Der abgebildete App-Prototyp befasst sich dabei mit dem Energieverbrauch und den daraus resultierenden CO2-Emissionen im Alltag. Die Studierende stellt dabei mit interaktiven Diagrammen und erklärenden Texten eine Verbindung zwischen sozialen Milieus und verschiedenen Kategorien her. Dadurch kann sich der Betrachter nicht nur selbst einordnen, sondern seinen eigenen Energieverbrauch überdenken.",
+    "vorschaubild": "2020_0008_InfoApp_01.png",
+    "bilder": ["assets/0008/2020_0008_InfoApp_02.png"],
+    "videos": ["https://www.youtube.com/watch?v=D_Nqp3Nn5fM"],
+    "audios": []
+  },
+  {
+    "id": "0009",
+    "titel": "Dark Eyes",
+    "urheber": ["Tim Teuchtler"],
+    "raum": "Studio",
+    "dozent": "Prof. Martin Kreyßig, Lothar Werthschulte, Marc Wiebach",
+    "beschreibung": "Die Aufgabe der Lehrveranstaltung „Postproduktion“ war die Projektdefinition aus verschiedenen Bereichen der 2D-Animation zu einem frei wählbaren Thema und dessen Umsetzung mit After Effects. Dafür wurde ein Intro (Main-Title-Design) für eine fiktionale Serie „Dark Eyes“ konzipiert. Der Stil der knapp 70 Sekunden langen Animation ist an die amerikanische Krimi-Serie „True Detective“ angelehnt und visuell von der fotografischen Doppelbelichtung inspiriert. Ausgehend von Greenscreen-Aufnahmen im S-Log3-Farbmodus, die zuerst in Davinci Resolve entwickelt werden müssen, wurde mit After Effects über Alphamasken und Chroma-Keys das gesamte Compositing durchgeführt.",
+    "vorschaubild": "0009_0.png",
+    "bilder": [
+      "assets/0009/0009_1.png",
+      "assets/0009/0009_2.png",
+      "assets/0009/0009_3.png"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=yuwmTqc3Pp8"],
+    "audios": []
+  },
+  {
+    "id": "0010",
+    "titel": "Die Sucht nach Social Media",
+    "urheber": ["Silas Opel"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Im Modul „Computeranimation“ soll ausgehend vom vorgegebenen Thema „Social Net“ eine 3D-Animation erstellt werden.\n Diese 3D-Animation beschäftigt sich konkret mit der Sucht nach Social Media. Dafür wurde basierend auf den Hauptcharakter des Animationsfilm Baymax einen sehr realistische 3D-Character ausgedacht, modelliert, texturiert und anschließend mit einem Rigg (Skelett) zur Animation versehen. Der Charakter versucht an sein in einer Glaskugel eingeschlossenes Handy zu gelangen, was ihn aber misslingt. Die Umsetzung der 3D-Animation erfolgte ausschließlich in Blender.",
+    "vorschaubild": "0010_0.png",
+    "bilder": [
+      "assets/0010/0010_1.png",
+      "assets/0010/0010_2.png",
+      "assets/0010/0010_3.png"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=uvyv1Irmg_A"],
+    "audios": []
+  },
+  {
+    "id": "0011",
+    "titel": "Capter Zero: First Contact",
+    "urheber": ["Benjamin Wehlend"],
+    "raum": "Studio",
+    "dozent": "Prof. Martin Kreyßig",
+    "beschreibung": "In der Veranstaltung „Audiovisuelle Gestaltung 2“ soll jeder Studierende einen eigenen Film planen, drehen und schneiden. Die Abgabe „Chapter Zero: First Contact“ ist als Hommage an die Serie „Stranger Things“ zu sehen und fungiert als eine Art Vorgeschichte für diese Serie. In einem Untergrundlabor kommt es zu einem Stromausfall und unheilvolle Geräusche ertönen. \n Die zwei gegenwärtigen Wissenschaftler versuchen zu flüchten, doch nur einer überlebt. Der entstandene Film überzeugt durch mysteriöse Story und gruseligen Sounds, obwohl oder gerade weil der „unsichtbare Feind“ nie zu sehen ist.",
+    "vorschaubild": "0011_0.png",
+    "bilder": [
+      "assets/0011/0011_1.png",
+      "assets/0011/0011_2.png",
+      "assets/0011/0011_3.png"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=THpAZzoBxnQ"],
+    "audios": []
+  },
+  {
+    "id": "0012",
+    "titel": "Webentwicklung für das Harzbikehaus",
+    "urheber": ["Gina Schlott"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Die Studierende hat sich selbst für ihr Eigenprojekt die Aufgabenstellung „Webentwicklung für das Harzbikehaus“ gestellt. In dem Zusammenhang wurde eine neue Webseite für das Unternehmen „Harzbikehaus“ designt und entwickelt, denn die Inhalte der vorhandenen Seite waren nicht mehr aktuell und nicht für mobile Geräte optimiert. Das neue Design besticht durch moderne, aber auch rustikale Elemente mit viel Weißraum und grün aktzentuierten Farbflächen. Im Projekt wurden Prototypen und Wireframes erstellt und an der konkrete Implementierung und Online-Setzen der Seite gearbeitet.",
+    "vorschaubild": "0012_0.png",
+    "bilder": [
+      "assets/0012/0012_1.png",
+      "assets/0012/0012_2.png",
+      "assets/0012/0012_3.png",
+      "assets/0012/0012_4.png"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0013",
+    "titel": "Shit",
+    "urheber": ["Navin Nadesan"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Im Modul „Computeranimation“ soll ausgehend vom vorgegebenen Thema „Social Net“ eine 3D-Animation erstellt werden. Entstanden ist eine 43-sekündige 3D-Animation mit dem Titel „Shit“, die sich dem Überthema humorvoll und mit einem Augenzwinkern nähert. Der 3D-Charaker geht durch eine Straße mit dem Handy und schaut sich Bilder in einer sozialen Plattform an. Dabei beschwert er sich, dass man mittlerweile für jeden Scheiß Likes bekommt. Dann macht er ein Foto von einem Hundehufen, postet dieses und fragt sich „Wie viele Likes man dafür wohl bekommt?“",
+    "vorschaubild": "0013_0.png",
+    "bilder": ["assets/0013/0013_1.png"],
+    "videos": ["https://www.youtube.com/watch?v=omcfxJpBTbI"],
+    "audios": []
+  },
+  {
+    "id": "0014",
+    "titel": "Not Alone",
+    "urheber": ["Lisa Renz"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Im Modul „Computeranimation“ soll ausgehend vom vorgegebenen Thema „Social Net“ eine 3D-Animation erstellt werden. Die 3D-Animation „Not Alone“ zeigt innerhalb von 40 Sekunden auf charmante und niedliche Art und Weise auf, dass man mit einer starken sozialen Community nie alleine ist und dass Freunde einem immer helfen – auch in Notlagen. Die Protagonisten der Animation sind Muffins. Der „Oh-wie-süß“-Faktor ist also garantiert.",
+    "vorschaubild": "0014_0.png",
+    "bilder": ["assets/0014/0014_1.png"],
+    "videos": ["https://www.youtube.com/watch?v=vJwuYHU70wY"],
+    "audios": []
+  },
+  {
+    "id": "0015",
+    "titel": "Censored",
+    "urheber": ["Jewgenij Deshkin"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "In Modul „Computeranimation“ soll ausgehend vom vorgegebenen Thema „Social Net“ eine 3D-Animation erstellt werden. Diese Abgabe beinhaltet eine kurzweilige, aber dennoch kritische Auseinandersetzung mit dem Thema. Die Animation ist als Anspielung für Beliebtheit von kurzen Videos im Netz mit 20 Sekunden bewusst kurzgehalten. Die 3D-Figur stolpert während des Laufes über Zensurbalken und fällt zu Boden, wobei der Balken die Verletzung verdeckt und das „Video“ gelikt wird.",
+    "vorschaubild": "0015_0.png",
+    "bilder": ["assets/0015/0015_1.png"],
+    "videos": ["https://www.youtube.com/watch?v=k-B0gjXjp-g"],
+    "audios": []
+  },
+  {
+    "id": "0016",
+    "titel": "The Social Net",
+    "urheber": ["Philipp Schneider"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Im Modul „Computeranimation“ soll ausgehend vom vorgegebenen Thema „Social Net“ eine 3D-Animation erstellt werden. Es entstand eine 60-sekündige 3D-Animation, die auf das umstrittene Thema „Handy am Steuer“ anspielt. Eine Fliege schreibt Nachrichten am Handy, während sie umherfliegt. Auf einmal landet die Fliege in einem Spinnennetz und ist nun im Netz gefangen.",
+    "vorschaubild": "0016_1.png",
+    "bilder": ["assets/0016/0016_2.png"],
+    "videos": ["https://www.youtube.com/watch?v=E3Jpph_pQ-w"],
+    "audios": []
+  },
+  {
+    "id": "0017",
+    "titel": "Moving Bauhaus",
+    "urheber": [
+      "Alexandra Herbersdorf",
+      "Simon Nebl",
+      "Sofia Schwerdtfeger (HS Harz)",
+      "außerdem Hayato Kusakizako & Mitsuki Sawano (Tokyo University of Technology)"
+    ],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Dominik Wilhelm",
+    "beschreibung": "Im Kurs „International Game Studio“ war das Ziel, zum 100. Jubiläum (2019) die Philosophie und den künstlerischen Ansatz des Bauhauses mit dem Medium “Videogames” zu verbinden. Dieses Projekt entstand in Kooperation mit der Tokyo University of Technology und wurde durch das Goethe-Institut in Tokyo gesponsert. Hier entwickelten die Studierenden der Medien- und Spielekonzeption und die Studierenden aus Tokyo gemeinsam ein Platformer Game, welches durch die Kunstwerke von Wassily Kandinsky, Künstler und Lehrer der Kunstschule Bauhaus, inspiriert ist.",
+    "vorschaubild": "0017_1.jpg",
+    "bilder": [
+      "assets/0017/0017_2.png",
+      "assets/0017/0017_3.jpg",
+      "assets/0017/0017_4.jpg"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=OO6bibN37Qw"],
+    "audios": []
+  },
+  {
+    "id": "0018",
+    "titel": "Ohne Titel",
+    "urheber": [
+      "Eiko Eickhoff",
+      "Jan-Ole Finkeisen",
+      "Erik Fabian Gottschall",
+      "Fabian Müller",
+      "Jan Sanewski",
+      "Tim Teuchtler",
+      "Leonie Vogel"
+    ],
+    "raum": "Studio",
+    "dozent": "Prof. Martin Kreyßig",
+    "beschreibung": "In der BFO „Motion Capture“ sollte mithilfe des Motion-Capturing-Systems der Hochschule Harz Aufnahmen gemacht werden. Diese sollen im weiteren Verlauf des Projektes zur Erstellung eines kurzen 3D Animationsfilms genutzt werden. Der Kurzfilm handelt von einem Roboter, der in einer wüstenähnlichen Gegend umherirrt. Der Akku des Roboters lässt immer mehr nach. Auf einmal sieht er ein weißes Licht am Himmel und macht sich auf den Weg zum Licht. Allerdings lässt sein Akku auf den Weg dorthin nach und er schafft es nicht das Licht zu erreichen.",
+    "vorschaubild": "0018_1.png",
+    "bilder": [
+      "assets/0018/0018_2.png",
+      "assets/0018/0018_3.png",
+      "assets/0018/0018_4.png"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=dsNnp9fXWho"],
+    "audios": []
+  },
+  {
+    "id": "0019",
+    "titel": "Heimvorteil",
+    "urheber": [
+      "Jan-Ole Finkeisen (Projektleiter)",
+      "Erik Gottschall",
+      "Paul Piper",
+      "Jan Sanewski",
+      "Tim Teuchtler"
+    ],
+    "raum": "Studio",
+    "dozent": "Prof. Martin Kreyßig",
+    "beschreibung": "Innerhalb des Jahresprojektes beschäftigten sich eine Gruppe von Studierenden damit, mehrere kleine Videos zu produzieren. Diese sind Teil einer Kampagne, um die Region Harz und deren Vorzüge in den Vordergrund zu stelle. Das Projekt Heimvorteil Harz entstand in Kooperation mit der Agentur Ideengut aus Halberstadt.",
+    "vorschaubild": "0019_1.PNG",
+    "bilder": ["assets/0019/0019_2.PNG", "assets/0019/0019_3.PNG"],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0020",
+    "titel": "100 Jahre Bauhaus",
+    "urheber": [
+      "Shanice Hoffmann",
+      "Florian Schorch-Zunder",
+      "Christopher Thiel"
+    ],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Gregor Theune",
+    "beschreibung": "In der BFO „Ausgewählte Themen der Gestaltung“ hatten die Studierende der Medien- und Spielekonzeption die Aufgabe, Plakate zum vorgegebenen Thema „Bauhaus“ zu entwerfen. Anlass war dabei das 100-jährige Jubiläum der Bauhaus-Bewegung. Dabei ließen die Studierende ihrer Kreativität freien Lauf.",
+    "vorschaubild": "0020_Hoffmann_4.jpg",
+    "bilder": [
+      "assets/0020/0020_Hoffmann_5.jpg",
+      "assets/0020/0020_Florian_1.jpg",
+      "assets/0020/0001.jpg",
+      "assets/0020/0004.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0021",
+    "titel": "Deckel gegen Polio",
+    "urheber": [
+      "Ahn",
+      "Eiko Eickhoff",
+      "Jan-Ole Finkeisen",
+      "Anna Gerold",
+      "Merlin Günther",
+      "Erik Gottschall",
+      "Gina Schlott"
+    ],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Gregor Theune",
+    "beschreibung": "In der BFO „Typografie“ hatte jeder Studierende die Aufgabe, Plakate zu einer fiktiven Kampagne „500 Deckel gegen Polio“ zu gestalten. Dabei wurden den Teilnehmern neben gestalterischem Wissen auch die Arbeitsschritte innerhalb einer Agentur näher gebracht.",
+    "vorschaubild": "0021_Gerold_3.jpg",
+    "bilder": [
+      "assets/0021/0021_Merlin_1.jpg",
+      "assets/0021/0021_Merlin_5.jpg",
+      "assets/0021/0021_Gina_3.jpg",
+      "assets/0021/0021_Gina_9.png",
+      "assets/0021/0021_JanOle_5.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0022",
+    "titel": "Corporate Identity mit Design Manual",
+    "urheber": [
+      "Denice Graupeter",
+      "Kevin Kleiber",
+      "Oskar Stipani",
+      "Jannes Zilling"
+    ],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Gregor Theune",
+    "beschreibung": "In der Veranstaltung „Corporate Design“ sollte jeder Studierende einen Briefbogen, ein Design-Manual und Visitenkarten gestalten. Hierbei lernten die Studierenden etwas über die wichtigsten Gestaltungsmittel und setzten ihr neues Wissen ein, um ein eigenes Corporate Design zu erstellen.",
+    "vorschaubild": "0002.jpg",
+    "bilder": [
+      "assets/0022/0001.jpg",
+      "assets/0022/0003.jpg",
+      "assets/0022/0004.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0023",
+    "titel": "Plakatgestaltung „Medieninformatik“",
+    "urheber": ["Emilia-Maria Bothe", "Johanna Kirsch", "Oska Stipani"],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Gregor Theune",
+    "beschreibung": "Im Modul „Form und Farbe“ setzten sich die Studierenden mit der Aufgabe auseinander, ein Plakat über ihren Studiengang „Medieninformatik“ zu gestalten. Dabei kombinierten sie typografische Elemente mit geometrischen Formen, um die Inhalte des Studiums kreativ darzustellen.",
+    "vorschaubild": "0001.jpg",
+    "bilder": [
+      "assets/0023/0002.jpg",
+      "assets/0023/0003.jpg",
+      "assets/0023/0004.jpg",
+      "assets/0023/0005.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0024",
+    "titel": "Typografie im räumlich zeitlichen Kontext",
+    "urheber": [
+      "Lea Brock",
+      "Ann-Kristin Hargus",
+      "Rieke Johannson",
+      "Karoline Weber"
+    ],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Gregor Theune",
+    "beschreibung": "Die Studierenden im Modul „Typografie“ hatten die Aufgabe, ein selbstgewähltes Schriftstück, wie beispielsweise ein Märchen, in räumlichen und zeitlichen Kontext typografisch und kreativ aufzuarbeiten. Dabei wurden von den Studierenden verschiedene Schriftarten und andere textliche Elemente miteinander kombiniert, um das gewählte Schriftstück anschaulich zu visualisieren.",
+    "vorschaubild": "01.png",
+    "bilder": [
+      "assets/0024/0006.jpg",
+      "assets/0024/0010.jpg",
+      "assets/0024/0012.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0025",
+    "titel": "3D-Produktdesign",
+    "urheber": ["Aykut Sevim"],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Christopher Jung",
+    "beschreibung": "In seinem Eigenprojekt setzte sich der Studierende unter dem Thema des dreidimensionalen Produktdesigns kreativ mit dem Programm Cinema 4D auseinander. Dabei entwickelte er mehrere futuristisch anmutende Sphären, die mithilfe von Lichteffekten effektvoll in Szene gesetzt werden.",
+    "vorschaubild": "Wood_Sphere.jpg",
+    "bilder": [
+      "assets/0025/Lightning_Sphere_Big.jpg",
+      "assets/0025/Destroyed.jpg",
+      "assets/0025/17_12_20_ShinyCoreV3.jpg"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=nX6W1K4YnAs"],
+    "audios": []
+  },
+  {
+    "id": "0026",
+    "titel": "Leaf Pray Love",
+    "urheber": [
+      "Vardan Sharma",
+      "Gia Bao Hoang",
+      "Benjamin Adelsberger",
+      "Jacqueline Kohrs",
+      "Samira Jakobs",
+      "Niklas Trenkel"
+    ],
+    "raum": "Studio",
+    "dozent": "Prof. Martin Kreyßig",
+    "beschreibung": "In der BFO „Motion Capture“ sollte mithilfe des Motion-Capturing-Systems der Hochschule ein kurzer 3D Animationsfilm erstellt werden. Die Studierenden schrieben hierfür ein Drehbuch und gestalteten die Modelle, die mithilfe von MoCap-Daten animiert wurden und nach der Postproduktion in einer dreiminütigen Animation resultierten.",
+    "vorschaubild": "01.png",
+    "bilder": ["assets/0026/02.png", "assets/0026/03.png"],
+    "videos": ["https://www.youtube.com/watch?v=YypOki-Oxpk"],
+    "audios": []
+  },
+  {
+    "id": "0027",
+    "titel": "Crossmedia für den Tag der offenen Tür",
+    "urheber": [
+      "Jennifer Cook",
+      "Teresa Gärtner",
+      "Christian Glatzel",
+      "Daniel Halangk",
+      "Linda Hube",
+      "Sebastian Kettler",
+      "Yanqi Li",
+      "Phillip Müller",
+      "Melissa Murawski",
+      "Marieke Polnik",
+      "Sainab Sakhizada",
+      "Amadeus Scherkenbach",
+      "Andre Schliecker",
+      "Nele Weber"
+    ],
+    "raum": "Grafik Lab",
+    "dozent": "Prof. Daniel Ackermann, Dipl. Des. Christopher Jung",
+    "beschreibung": "Im Rahmen des Kurses „Crossmediale Strategien“ entwickelten die Studierenden eine crossmediale Werbekampagne zum Tag der offenen Tür für die Studiengänge „Medieninformatik“ und „Medien- und Spielekonzeption“. Der Kurs teilte sich dabei in die fünf Teams Print, Content, Website, VR-Projekt und Projektleitung auf, um die gleichzeitige Arbeit an den verschiedenen Aufgaben zu organisieren und koordinieren.",
+    "vorschaubild": "01.png",
+    "bilder": [
+      "assets/0027/02.png",
+      "assets/0027/03.png",
+      "assets/0027/04.png",
+      "assets/0027/05.png"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0028",
+    "titel": "Fliegen in VR",
+    "urheber": ["Tanja Witke"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Für ihr Eigenprojekt entschied sich die Studierende, eine eigene Flugsimulation mithilfe einer VR-Brille zu erschaffen. Dazu erarbeitete sie eine eigene Bewegungsvorrichtung, über die der Benutzer mittels Achsenkippung in einer ansprechenden Umgebung der dazu entwickelten Unity-Applikation durch Ringe fliegen kann.",
+    "vorschaubild": "finaleDemo.jpg",
+    "bilder": [
+      "assets/0028/finaleKonstruktion.jpg",
+      "assets/0028/Kontroller.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0029",
+    "titel": "Partikel / VFX",
+    "urheber": ["Fenya Troch"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Im Eigenprojekt der Studierenden nutzt diese Motion-Capture-Technologien und ein Partikelsystem zur Anpassung und Darstellung von Emotionen. Dabei wird zum Beispiel Wasser als Trauer durch gebückte, schleppende Haltung des gezeigten Charakters verkörpert. Neben dieser Darstellung wurden auch weitere Partikel-Visualisierungen (z.T. auch rhythmischer Art) erstellt.",
+    "vorschaubild": "001.png",
+    "bilder": [],
+    "videos": [
+      "https://www.youtube.com/watch?v=TQePYNwujdI",
+      "https://www.youtube.com/watch?v=OIMh6VMPowc",
+      "https://www.youtube.com/watch?v=Dz2VT2LfvUQ",
+      "https://www.youtube.com/watch?v=Z0IhplqHlSo",
+      "https://www.youtube.com/watch?v=lKZmqwqD_bM"
+    ],
+    "audios": []
+  },
+  {
+    "id": "0030",
+    "titel": "„SnaleTale“ - ein interaktiver Hörspielteppich",
+    "urheber": [
+      "Mona Holtmann",
+      "Samira Jakobs",
+      "Jacqueline Kohrs",
+      "Ivo Max Müllner",
+      "Vardan Sharma"
+    ],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Martin Kreyßig, Prof. Daniel Ackermann",
+    "beschreibung": "Die Projektgruppe „Schnalproduction“ erarbeitete im Rahmen der Vorlesungen Projektmanagement und HCI ein Konzept zur non-linearen sowie interaktiven Erzählung von Kindergeschichten. Diese wurden Mittels HTML als ein Spielteppich zum Erleben interaktiver Geschichten geformt und fordert den Leser zum aktiven Miterleben der Geschichte durch Entscheidungsknoten auf.",
+    "vorschaubild": "02.png",
+    "bilder": ["assets/0030/03.png", "assets/0030/01.png"],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0031",
+    "titel": "„photo-booth“ - ein mobiles Fotostudio",
+    "urheber": ["Philipp Trenz"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Das Eigenprojekt des Studierenden beschreibt den Aufbau und Gebrauch des mobilen Fotostudios „photo-booth“ als Schnittstelle privater und professioneller Privatfotografie. Eine vordefinierte Umgebung wird so vom Nutzer der Anwendung gewählt. Das Projekt stellt so die Software zur Implementierung einer „Photobooth“ bereit, welche die Steuerung einer Fotokamera, die Anzeige der Fotografien und die Interaktion für den Nutzer ermöglichen soll.",
+    "vorschaubild": "0002.jpg",
+    "bilder": ["assets/0031/0003.jpg", "assets/0031/0004.jpg"],
+    "videos": ["https://www.youtube.com/watch?v=8RYfn6AoT70"],
+    "audios": ["assets/0031/2020_0040_AugenInDerGrossstadt_01.wav"]
+  },
+  {
+    "id": "0032",
+    "titel": "nGlow",
+    "urheber": ["Projektgruppe"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Dominik Wilhelm",
+    "beschreibung": "Die Projektgruppe rund um nGlow entwickelte das Adventure Game im Rahmen des Game Development Moduls. Im Videospiel steuert der Spieler den letzten Bewohner eines mystischen Planeten, der in Stillstand geraten ist. Das Videospiel wurde 2018 mit dem dritten Platz des Deutschen Computerspielpreises ausgezeichnet und wird seitdem durch UniGlow Entertainment weiterentwickelt.",
+    "vorschaubild": "nGlowDocBackground300dpi.jpg",
+    "bilder": [
+      "assets/0032/ruin_ideensammlung_1.png",
+      "assets/0032/Level_Design_v1.jpg",
+      "assets/0032/Character_Concept_01.jpg",
+      "assets/0032/playerviewScreenshot.png",
+      "assets/0032/some_mushrooms.png"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0033",
+    "titel": "A Long Way",
+    "urheber": ["Anton Blumenstein"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Im Rahmen des Moduls Computeranimation erstellte der Studierende eine witzige Animation zur beschwerlichen Reise eines Steines, aus dem großen Ozean bis an den sonnigen Strand. Eine atmosphärische klangliche Inszenierung sowie authentische Lichteffekte erzeugen so eine lebhafte Unterwasserwelt, welche dem Zuschauer auf dieser einzigartigen Reise dargestellt wird.",
+    "vorschaubild": "",
+    "bilder": ["assets/0033/01.png"],
+    "videos": ["https://www.youtube.com/watch?v=ShoV7kaPOfY"],
+    "audios": []
+  },
+  {
+    "id": "0034",
+    "titel": "Under Water",
+    "urheber": ["Jessica Cramme"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Als Projektarbeit im Modul Computeranimation zeigt die Studierende die Reise eine Wasserblase, welche durch die tiefen eines Gewässers treibt. Begleitet von spannenden audiovisuellen Klängen wird der Zuschauer zu einer Unterwasserlichtung geführt. Dabei wurde der Gestaltungsstil durch einen kantigen Low-Poly-Stil sehr einfach angelegt und so an das Corporate Design der Medieninformatik angelehnt. Das Projekt entstand im Rahmen des \"Medieninformatik Flying Fish\", dem hochschulinternen Kreativwettbewerb des Studiengangs Medieninformatik.",
+    "vorschaubild": "03.png",
+    "bilder": [
+      "assets/0034/01.png",
+      "assets/0034/02.png",
+      "assets/0034/04.png"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=JYgu88HG4lI"],
+    "audios": []
+  },
+  {
+    "id": "0035",
+    "titel": "Unknown Ocean",
+    "urheber": ["Projektgruppe"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Dominik Wilhelm",
+    "beschreibung": "Die Projektarbeit „Unknown Ocean“ ist ein Sidescrolling Shoot ’em up mit Elementen aus verschiedenen Rogue-like Videospielen. Hierbei steuert der Spieler sein U-Boot immer tiefer hinab in die Gewässer eines unerforschten Ozeans voll feindseliger Kreaturen. Über den Verlauf eines Semesters entstand durch Kollaboration eines Teams unter dem Teamnamen „Handmade Sushi“ die erste spielbare Version des Videogames.",
+    "vorschaubild": "uo-title.png",
+    "bilder": [
+      "assets/0035/screen.png",
+      "assets/0035/uo-harbor.png",
+      "assets/0035/uo-results.png"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0036",
+    "titel": "Daydreams",
+    "urheber": ["Projektgruppe"],
+    "raum": "Studio",
+    "dozent": "Prof. Martin Kreyßig",
+    "beschreibung": "Die gezeigte Motion-Capture-Animation zeigt eindrucksvoll, dass einfaches Storytelling genügt, um durch die Verkörperung von humoristischen Slapstick-Elementen die wesentlichen Möglichkeiten zur Umsetzung von Bewegungsaufzeichnungen einzufangen. Diese wurden durch verschiedene Musikelemente erweitert und ergänzen sich zu einer ansehnlichen 3D-Animation.",
+    "vorschaubild": "",
+    "bilder": [],
+    "videos": ["https://www.youtube.com/watch?v=fLT-U-F-DsA"],
+    "audios": []
+  },
+  {
+    "id": "0037",
+    "titel": "Mechanism (AR)",
+    "urheber": ["Linda Hube"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Das entwickelte AR-Game „Mechanism“ stellt als Puzzle-Game mit modularem Pipeline-System die spielerischen Elemente neuartiger Mixed-Reality-Anwendungen in den Vordergrund. Entwickelt für verschiedene mobile Anwendungsgeräte scheint das klassische Puzzle-Erlebnis im 3D-Raum völlig neue Möglichkeiten zu erfahren.",
+    "vorschaubild": "01.png",
+    "bilder": [
+      "assets/0037/02.png",
+      "assets/0037/03.png",
+      "assets/0037/video:-RxVuTcm7w8"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=Tn9J1t2nOxE"],
+    "audios": []
+  },
+  {
+    "id": "0038",
+    "titel": "Generative Gestaltung",
+    "urheber": ["Marcel Müller"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Die in der BFO „Ausgewählte Themen der generativen Gestaltung“ erstellte Anwendung zeigt die Möglichkeiten zur Erzeugung von spannenden, generativen Designs, welche durch die Veränderung von Parametern Gestalt erhalten und in ihrer Entstehung moduliert werden können. Zur Erzeugung des Canvas, sowie für die Anordnung der Bedienelemente wurden hierbei HTML und CSS verwendet.",
+    "vorschaubild": "001.png",
+    "bilder": [
+      "assets/0038/beispiel01.png",
+      "assets/0038/beispiel02.png",
+      "assets/0038/beispiel03.png",
+      "assets/0038/beispiel04.png"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0039",
+    "titel": "Passage",
+    "urheber": ["Erik Bietz"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Martin Kreyßig, Marc Wiebach",
+    "beschreibung": "Der im Modul „Postproduktion“ entstandene Kurzfilm beschäftigt sich auf kreative Weise mit dem fiktiven Übergang vom Leben zum Tod. Der Studierende gestaltete dazu einen bunten Laubwald, durch welchen sich die Hauptfigur hindurchbewegt. Nach der Erstellung eines Storyboards wurde die Idee mithilfe des Rigging-Tools Duik in Adobe After Effects umgesetzt und animiert.",
+    "vorschaubild": "01.png",
+    "bilder": [
+      "assets/0039/03.png",
+      "assets/0039/04.png",
+      "assets/0039/05.png"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=kBThsOtQaJg"],
+    "audios": []
+  },
+  {
+    "id": "0040",
+    "titel": "Augen in der Großstadt",
+    "urheber": ["Lisa Renz"],
+    "raum": "Audiostudio",
+    "dozent": "Prof. Martin Kreyßig",
+    "beschreibung": "Die zweite Übung der Veranstaltung „Audiotechnik“ (Teil des Moduls „Audiovisuelle Gestaltung 1\") bietet mit den Schwerpunkten Assoziation, Interpretation, Sprache und Geräusche verschiedene Umsetzungsmöglichkeiten bei der Gestaltung des Gedichts „Augen in der Großstadt“ (von Kurt Tucholsky). In diesem Projekt dienten Filme wie „Blade Runner“ und „Ghost in the Shell“ als Inspriation, die den Fragen nachgehen, wie viel Menschlichkeit noch in einem Roboter (Menschmaschine) steckt und wodurch ein Mensch zum Menschen wird. Die maschinell klingende Sprecherstimme wird sowohl durch atmosphärische Tonelemente als auch den durch Synthesizer selbst erzeugten Rhythmus unterlegt.",
+    "vorschaubild": "",
+    "bilder": [],
+    "videos": [],
+    "audios": ["assets/0040/2020_0040_AugenInDerGrossstadt_01.wav"]
+  },
+  {
+    "id": "0041",
+    "titel": "slip away",
+    "urheber": ["John-Sebastian Hetsch"],
+    "raum": "Studio",
+    "dozent": "Prof. Martin Kreyßig",
+    "beschreibung": "Das gezeigte Filmprojekt aus dem Modul „Audiovisuelle Gestaltung 2“ verbindet eine dramatische Erzählung mit Experimentalfilm-Elementen. Hierbei wird die Geschichte einer anfangs harmonischen Beziehung erzählt, welche durch die Aufdeckung einer Affäre zerüttet wird. Überflutet vom Gefühl der Haltlosigkeit durchlebt der Protagon eine Verkettung irrationaler Gedanken.",
+    "vorschaubild": "",
+    "bilder": [],
+    "videos": ["https://www.youtube.com/watch?v=4ia8bUabLUU"],
+    "audios": []
+  },
+  {
+    "id": "0042",
+    "titel": "Global Game Jam 2020",
+    "urheber": [
+      "Studierende des MuSk-Masterstudiengangs sowie die Studierenden des Moduls \"Game Development\" im Medieninformatik-Studiengang"
+    ],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Dominik Wilhelm",
+    "beschreibung": "Der Global Game Jam ist ein jährlich stattfindendes weltweites Event, bei dem auch die Hochschule Harz mitmacht. Dabei treffen sich die Studierenden ein Wochenende in der Hochschule und entwickelt innerhalb von 48 Stunden ein eigenes Spiel zu einem vorgegebenen Thema, im Jahr 2020 zum Thema \"Repair\". Die dabei entstandenen Spiele der Studierenden im Modul \"Spieleentwurf\" und dem Masterstudiengang sind frei zugänglich und auf der offiziellen Jam-Seite unter https://globalgamejam.org/2020/jam-sites/hochschule-harz-medieninformatikbsc-medien-und-spielekonzeption-ma/games abrufbar.",
+    "vorschaubild": "DSC_1256-2048x2048.jpg",
+    "bilder": [
+      "assets/0042/DSC_1287-2048x1365.jpg",
+      "assets/0042/DSC_1144-2048x1152.jpg",
+      "assets/0042/DSC_1251-2048x1365.jpg",
+      "assets/0042/DSC_1222-2048x1365.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0043",
+    "titel": "Partikelsysteme",
+    "urheber": [
+      "Erik Bietz",
+      "Saskia Hustinx",
+      "Pauline Lässig",
+      "Felix Altenhofen"
+    ],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Daniel Ackermann",
+    "beschreibung": "Bei der BFO „Ausgewählte Themen der Computergrafik“ wurden verschiedenste Partikeleffekte analysiert, konzipiert und umgesetzt. Ein besonderer Aspekt war dabei die Umsetzung dieser Effekte in Realtime-Engines wie Unity oder Unreal. Die entstandenen Abgaben zeigen die kreative Umsetzung eigener Ideen in den Partikelsystemen der Engines.",
+    "vorschaubild": "",
+    "bilder": [],
+    "videos": [
+      "https://www.youtube.com/watch?v=S5k9qB3s_50",
+      "https://www.youtube.com/watch?v=wWBZmxcDFOY"
+    ],
+    "audios": []
+  },
+  {
+    "id": "0044",
+    "titel": "Lightwriting",
+    "urheber": ["Lisa Renz", "Annika Piechutta", "Lisa Franze"],
+    "raum": "Studio",
+    "dozent": "Dipl. Des. Florian Fischer",
+    "beschreibung": "Als Übung innerhalb der Veranstaltung „Fototechnik“, die Teil des Moduls „Audiovisuelle Gestaltung 1“ ist, beschäftigten sich die Studierenden mit der Langzeitfotografie. Dabei sollte durch sogenanntes Light-Writing/-Painting der eigene Name mit Licht geschrieben oder spannende Skulpturen gemalt werden.",
+    "vorschaubild": "2017_0044_Lightwriting_Annika_01.jpg",
+    "bilder": [
+      "assets/0044/2017_0044_Lightwriting_01.jpg",
+      "assets/0044/lightwriting_lf.jpg",
+      "assets/0044/2017_0044_Lightwriting_Annika_02.JPG",
+      "assets/0044/2017_0044_Lightwriting_Annika_03.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0045",
+    "titel": "Der sicherste Ort",
+    "urheber": ["Lena Sartorius", "Matthias Koch"],
+    "raum": "Studio",
+    "dozent": "Prof. Martin Kreyßig",
+    "beschreibung": "Jedes Jahr im Sommersemester müssen sich die Zweitsemester-Studierenden der Medieninformatik der Herausforderung stellen, einen eigenen Kurzfilm zu planen und umzusetzen. Durch die Unterstützung eines kleinen Teams entstehen so Projekte wie „Der sicherste Ort“. Der teils abstrakte Film ist ein Aufruf dazu, zu überlegen, wieso man sich bestimmten Zwängen hingibt und wieso man oft das tut, was andere von einem erwarten, anstatt dass, was man wirklich will.",
+    "vorschaubild": "",
+    "bilder": [],
+    "videos": ["https://www.youtube.com/watch?v=zPCq85bABOk"],
+    "audios": []
+  },
+  {
+    "id": "0046",
+    "titel": "Buchstaben-Muster",
+    "urheber": ["Lisa Franze", "Lisa Renz"],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Christopher Jung",
+    "beschreibung": "In dem Modul „Mediengestaltung 1“ war die Aufgabe, spannende Entwürfe mithilfe der Buchstaben A-Z und vier Sonderzeichen einer Schriftart zu bilden. Dabei kam pro Seite nur ein Zeichen der vorgegebenen Schriftart zum Einsatz. Die Studierenden haben dabei den Umgang mit InDesign geschult und das Entwickeln von kontrastreichen Designs erlernt. Entstanden sind grafische Schwarz-Weiß-Kompositionen.",
+    "vorschaubild": "abc_uebersicht_lf.png",
+    "bilder": ["assets/0046/abc_uebersicht_lr.png"],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0047",
+    "titel": "Alphabet-Bilder",
+    "urheber": ["Lisa Franze", "Erik Bietz"],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Christopher Jung",
+    "beschreibung": "In der Veranstaltung „Mediengestaltung 2“ sollten die Buchstaben-Formen in der „realen“ Welt wiedergefunden und fotografiert werden. Bei der Suche nach den abstrakten Formen mussten die Studierenden offen durch die Welt gehen. Die Ergebnisse zeigen spannende Einblicke in die Welt des Alphabets.",
+    "vorschaubild": "uebersicht_letter_lf.jpg",
+    "bilder": ["assets/0047/alphabet_eb.jpg"],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0048",
+    "titel": "nom. - no ordinary mug",
+    "urheber": [
+      "Astrid Holec",
+      "Erik Bietz",
+      "Pauline Lässig",
+      "Saskia Hustinx",
+      "Annika Piechutta",
+      "Felix Altenhofen",
+      "Lisa Franze"
+    ],
+    "raum": "Projektraum",
+    "dozent": "Prof. Martin Kreyßig, Valentin Kohlmeier",
+    "beschreibung": "Im Zuge der Lehrveranstaltungen „Projektmanagement & HCI“ bestand die Aufgabe darin, eine fiktive Agentur zu gründen und ein Agentur-Produkt zu entwickeln. Die Projektgruppe „mufflon.“ hat einen „smarten“ Thermobecher designt. Dieser ermöglicht es, ein eingefülltes Getränk auf eine angenehme Trinktemperatur zu erhitzen oder abzukühlen. Die dazu entwickelte App soll die Bedienung des Bechers unterstützen und die optimale User Experience gewährleisten.",
+    "vorschaubild": "nom_fakten.png",
+    "bilder": [
+      "assets/0048/nom_plakat.png",
+      "assets/0048/video:oM4dTtwFzKU",
+      "assets/0048/nom_app.png",
+      "assets/0048/nom_website.png"
+    ],
+    "videos": ["https://www.youtube.com/watch?v=ygUULbQRg58"],
+    "audios": []
+  },
+  {
+    "id": "0049",
+    "titel": "Social Credit System",
+    "urheber": [
+      "Ploypailin Bayer",
+      "Silas Opel",
+      "Matthias Koch",
+      "Lena Sartorius",
+      "Lisa Renz"
+    ],
+    "raum": "Multimedia Lab",
+    "dozent": "Rainer Rehak",
+    "beschreibung": "In der Veranstaltung war es die Aufgabe der Studierenden, sich mit einem gesellschaftlich relevanten und medienorientierten Thema auseinander zu setzen und dieses durch ein praktisches Projekt zu ergänzen. Die Gruppe behandelte primär das Bonitätssystem in China und setzten dieses in einer Webseite zur Bewertung der Kommilitonen während der Vorlesungszeit um. Durch positives oder negatives Verhalten sowie durch das Beantworten einer Umfrage wurden Punkte vergeben, die zu einem internen Ranking führten. Das gesellschaftskritische Projekt sorgte am Ende der Präsentation nicht nur für viel Diskussion, sondern gewann einige Wochen später außerdem den MINFF Classic 2019 unter dem Motto „Social Net“.",
+    "vorschaubild": "2019_0049_SCS_01.png",
+    "bilder": [
+      "assets/0049/2019_0049_SCS_02.png",
+      "assets/0049/2019_0049_SCS_03.png",
+      "assets/0049/2019_0049_SCS_04.png"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0050",
+    "titel": "MINFF Classic Award „Social Net“",
+    "urheber": [
+      "Lena Sartorius",
+      "Lisa Franze",
+      "Alexander Johr",
+      "Lisa Renz",
+      "Christoph Baumgart / Erik Masson / Lukas Kuppermann"
+    ],
+    "raum": "Audimax",
+    "dozent": "Prof. Martin Kreyßig, Prof. Daniel Ackermann, Prof. Dominik Wilhelm, Prof. Ph.D. Jürgen Singer, Prof. Eberhard Högerle",
+    "beschreibung": "Der MINFF Classic stand im Jahre 2019 unter dem Überthema „Social Net“. Die Zuschauer konnten verschiedenen Abgaben aus den Bereichen 2D & 3D Computeranimation, Gaming, aber auch Cross Media bestaunen. Zu den Gewinner gehörten: Webanwendung „Social Credit System“, das Multiplayer-Videospiel „Espersquids vs. Kingblowfish“ und die filmische Parodie „Yohgio X Influencer“. Mehr zum MINFF Award 2019 unter http://www.medieninformatik.de/minff-award-2019/",
+    "vorschaubild": "2019_0050_MinffClassic_01.jpg",
+    "bilder": ["assets/0050/2019_0050_MinffClassic_02.jpg"],
+    "videos": [
+      "https://www.youtube.com/watch?v=xIKltQxiCr0",
+      "https://www.youtube.com/watch?v=9MEHwYyso-4",
+      "https://www.youtube.com/watch?v=1YYF-SqpscY"
+    ],
+    "audios": []
+  },
+  {
+    "id": "0051",
+    "titel": "MINFF Jam Award „Ansicht“",
+    "urheber": [
+      "Gruppe 1: Jakob Harder / Wilhelm Tischbein / Sarah Louise Rickmann / Katharina Kasprzak / Martin Just,\n Gruppe 2: Lisa Renz / Lena Sartorius / Sabine Heyne / Shanice Hoffmann / Dustin Winkler,\n Gruppe 3: Eiko Eickhoff / Saskia Hustinx / Johanna Scheffler / Diana Mazmanyan,\n Gruppe 4: Johanna Kirsch / John-Sebastian Hetsch / Laura Buberti / Christoph Baumgart / Erik Masson"
+    ],
+    "raum": "Audimax",
+    "dozent": "Prof. Martin Kreyßig, Prof. Daniel Ackermann, Prof. Dominik Wilhelm, Prof. Ph.D. Jürgen Singer, Prof. Eberhard Högerle",
+    "beschreibung": "Die Teilnehmenden des MINFF Jam 2019 fanden sich in ausgelosten Projektgruppen zusammen und erstellten innerhalb von 24h zu dem vorgegebenen Thema „Ansicht“ gemeinsam verschiedenste Multimedia-Beiträge. Unter den Gewinnern waren: das Spiel kooperative Spiel „Buntglas - Get your drunk ass home“, die 2D-Animation „Synesthesia - Farbiges Hören“ und der Kurzfilm „K.I.D.S. - Campusleiche“. Mehr zum MINFF Award 2019 unter http://www.medieninformatik.de/minff-award-2019/",
+    "vorschaubild": "",
+    "bilder": [],
+    "videos": [
+      "https://www.youtube.com/watch?v=K16emeA9aGg",
+      "https://www.youtube.com/watch?v=k3KIFbZkktE",
+      "https://www.youtube.com/watch?v=nFsW94u0ris",
+      "https://www.youtube.com/watch?v=e-kziOADuGQ"
+    ],
+    "audios": []
+  },
+  {
+    "id": "0052",
+    "titel": "Space Next",
+    "urheber": ["Saskia Hustinx"],
+    "raum": "Multimedia Lab",
+    "dozent": "Prof. Martin Kreyßig, Marc Wiebach",
+    "beschreibung": "Bei diesem Kurzfilm, welcher im Modul „Postproduktion“ entstanden ist, handelt es sich um einen Werbefilm für eine fiktive Reiseagentur namens „SpaceNext“, welche Reisen ins Weltall anbietet. Dabei werden einige Kernpunkte und Vorteile einer solchen Reise spielerisch dargestellt. Die dazu genutzten Figuren und Umgebungen wurden in Illustrator und Affinity-Designer erstellt und mit Adobe After-Effects animiert.",
+    "vorschaubild": "01.png",
+    "bilder": ["assets/0052/02.png", "assets/0052/03.png"],
+    "videos": ["https://www.youtube.com/watch?v=gegli1pswH4"],
+    "audios": []
+  },
+  {
+    "id": "0053",
+    "titel": "Karl May Museum",
+    "urheber": [
+      "Mandy Kratina",
+      "Katja Krone",
+      "Sandra Löffler",
+      "Jutta Schwarz",
+      "Susann Stieler",
+      "Melanie Stiller"
+    ],
+    "raum": "Grafik Lab",
+    "dozent": "Prof. Eberhard Högerle",
+    "beschreibung": "Die Aufgabe dieses Jahresprojekts bestand darin, eine Multimedia-CD für das Karl-May-Museum in Radebeul zu entwickeln. Dabei sollten die zentralen Ausstellungsthemen Indianer Nordamerikas, Karl May- Leben und Werk sowie Radebeul als Heimatstadt Karl Mays aufgegriffen werden. Ursprünglich sollte nur das Erscheinungsbild aufgebessert werden, doch am Ende entstand eine Webseite mit unzähligen Texten, Bild, Ton- und Videosequenzen. Außerdem ermöglichten QuicktimeVR-Aufnahmen dem Nutzer, sich in ausgewählten Ausstellungsräumen virtuell zu bewegen und zu informieren.",
+    "vorschaubild": "2003_0053_KarlMey_01.jpg",
+    "bilder": [
+      "assets/0053/2003_0053_KarlMey_02.jpg",
+      "assets/0053/2003_0053_KarlMey_03.jpg",
+      "assets/0053/2003_0053_KarlMey_04.jpg",
+      "assets/0053/2003_0053_KarlMey_05.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0054",
+    "titel": "Jurapark",
+    "urheber": [
+      "Henner Wöhler",
+      "Johannes Bastian",
+      "Sabine Sarfert",
+      "Sabine Meyerding",
+      "Björn Wöldecke",
+      "Gunnar Neuendorf"
+    ],
+    "raum": "Grafik Lab",
+    "dozent": "Prof. Eberhard Högerle",
+    "beschreibung": "In diesem Projekt stand die Entwicklung verschiedener Multimediakonzepte für den geplanten Internationalen JuraPark Harz im Fokus. Die Idee war eine Vereinheitlichung von Wissenschaft und Erlebnispark sowie die Visualisierung von Fossilienfunden und die einzigartige Anordnung von Erdschichten. Am Ende konzipierten die Studieren ein Dinoscope, eine virtuelle Fahrt durch den Zeittunnel und den Park sowie ein neues Präsentationsdesign.",
+    "vorschaubild": "2006_0054_JuraPark_01.jpg",
+    "bilder": ["assets/0054/2006_0054_JuraPark_02.jpg"],
+    "videos": ["https://www.youtube.com/watch?v=ZUB-kYYvrGM"],
+    "audios": []
+  },
+  {
+    "id": "0055",
+    "titel": "Medienkonzept Stiftskirche Gernrode",
+    "urheber": [
+      "Sascha Reinhold",
+      "David Paschke",
+      "Julia Behrendt",
+      "Carsten Achtermann",
+      "Sven Skoczylas",
+      "Marcus Thöricht"
+    ],
+    "raum": "Grafik Lab",
+    "dozent": "Prof. Eberhard Högerle",
+    "beschreibung": "Das Projektziel der Medieninformatik (Bachelor) und Tourism and Destination Management (Master) Studierende war ein multimediales Konzept für die Stiftskirche St. Cyriakus Gernrode. Zu Verbesserung der touristischen Infrastruktur und gewinnbringende Vermarktung entstanden Infobroschüren, Veranstaltungskalender und Beschilderungen in einem neuen Corporate Design. Außerdem wurde der Online-Auftritt aktualisiert und ein virtueller Rundgang mit dem sogennanten PDA (Personal Digital Assistant) erarbeitet.",
+    "vorschaubild": "2008_0055_Gernrode_01.jpg",
+    "bilder": [
+      "assets/0055/2008_0055_Gernrode_02.jpg",
+      "assets/0055/2008_0055_Gernrode_03.jpg",
+      "assets/0055/2008_0055_Gernrode_04.jpg",
+      "assets/0055/2008_0055_Gernrode_05.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0056",
+    "titel": "Medienbörse Kulturwissenschaft",
+    "urheber": ["[keine Angaben]"],
+    "raum": "Projektraum",
+    "dozent": "Prof. Eberhard Högerle, Prof. Martin Kreyßig",
+    "beschreibung": "Im Januar 2011 fand die Medienbörse der Industrie, ein Vergleich der Medienstudiengänge in Sachsen-Anhalt, in Halle statt. Als Vorbereitung dafür gestalteten die Studierenden des Jahresprojekts einen Stand und dessen inhaltliche sowie visuelle Präsentation.\n Für eine nachhaltige Verwendung wurden die Bildwände und kleinen Informationstürme so konzipiert, dass sie variabel und skalierbar sind und an das schon bestehende Mero System der Hoschule Harz andocken bzw. erweitern. Die Dauerpräsentation der Bibliothek, des Studienganges Medieninformatik sowie des Rechen- und des Sprachzentrums sollte später dauerhaft in der Papierfabrik (Haus 9) aufgebaut werden.",
+    "vorschaubild": "2011_0056_Medienboerse_01.jpg",
+    "bilder": [
+      "assets/0056/2011_0056_Medienboerse_02.jpeg",
+      "assets/0056/2011_0056_Medienboerse_03.jpeg",
+      "assets/0056/2011_0056_Medienboerse_04.jpeg",
+      "assets/0056/2011_0056_Medienboerse_05.jpeg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0057",
+    "titel": "Neustrukturierung der Ausstellung \"Cinema\" im Schloss Ballenstedt",
+    "urheber": [
+      "Anne Körner",
+      "Tobias Wegner",
+      "Christoph Peisker",
+      "Gregor Rackwitz",
+      "Adrian Winterfeld",
+      "Nikolas Khurana"
+    ],
+    "raum": "Studio",
+    "dozent": "Dipl. Des. Florian Fischer, Prof. Eberhard Högerle, Prof. Martin Kreyßig",
+    "beschreibung": "In Zusammenarbeit mit der DEFA-Stiftung aus Berlin bestand das Jahresprojekt für die Studierenden primär aus der Neukonzeption der Filmaustellung im Schloss Ballenstedt. Im Zuge dessen wurden fotografische Sachaufnahmen der ausgestellten Geräte gemacht und eine neuer Webauftritten mit multimedialen Elementen geschaffen. Außerdem entschied sich die Gruppe dazu, eine Namensänderung in \"Filmmuseum Schloss Ballenstadt\" durchzuführen.",
+    "vorschaubild": "2012_0057_Ballenstedt_01.jpg",
+    "bilder": [
+      "assets/0057/2012_0057_Ballenstedt_02.png",
+      "assets/0057/2012_0057_Ballenstedt_03.jpg",
+      "assets/0057/2012_0057_Ballenstedt_04.jpg",
+      "assets/0057/2012_0057_Ballenstedt_05.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0058",
+    "titel": "Das alte Zollhaus Hitzacker",
+    "urheber": ["[keine Angaben]"],
+    "raum": "Projektraum",
+    "dozent": "Prof. Eberhard Högerle",
+    "beschreibung": "Bereits 2006 arbeiteten Studierende der Medieninformatik im Rahmen des Jahresprojekts für das Zollhaus Hitzacker und konzipierten dabei ein Multimediamodul als \"Virtuelles Stadtmodell\". Die neue Projektgruppe sollte nun neue Möglichkeiten der multimedialen Museums- und Stadtführung durch interaktive Informationsvermittlung und Erschließung neuer Zielgruppen erschaffen. Als Konzept einer mobilen und interaktiven Präsentationsplattform vernetzten sie die Museums- und Stadtinhalte in einer App. Hinzukamen weitere Webinhalte sowie Printmaterialien.",
+    "vorschaubild": "2013_0058_Zollhaus_01.jpg",
+    "bilder": [
+      "assets/0058/2013_0058_Zollhaus_02.jpg",
+      "assets/0058/2013_0058_Zollhaus_03.jpg",
+      "assets/0058/2013_0058_Zollhaus_03.png"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0059",
+    "titel": "Computational Photography",
+    "urheber": [
+      "Sven Bischoff",
+      "Mandy Fischer",
+      "Thomas Lüttich",
+      "Nancy Nordmann",
+      "Dominci Schiller"
+    ],
+    "raum": "3D-Lab",
+    "dozent": "Prof. Eberhard Högerle, Prof. Ph.D. Jürgen Singer",
+    "beschreibung": "Die Aufgabe für das Jahresprojekt Computational Photography bestand darin, einen Bildausschnitt automatisiert durch einen passenden, aus einem anderen Bild kommenden Ausschnitt zu ersetzen. Als Ersatz für den Bildbereich sollten Bilder aus Bilddatenbanken aus dem Web, wie zum Beispiel von Flickr, Facebook, Picasa und ähnliche dienen. Ziel ist dabei, dass die relevanten Bilder automatisiert gefiltert werden und das neue Bild ebenso automatisiert generiert und ausgegeben wird, ohne, dass ein Nutzer Eingaben oder Einstellungen vornehmen muss.",
+    "vorschaubild": "2013_0059_CP_010.jpg",
+    "bilder": [
+      "assets/0059/2013_0059_CP_020.jpg",
+      "assets/0059/2013_0059_CP_030.jpg",
+      "assets/0059/2013_0059_CP_040.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0060",
+    "titel": "Ausstellung Harzburger Front",
+    "urheber": ["[keine Angaben]"],
+    "raum": "Grafik Lab",
+    "dozent": "Prof. Eberhard Högerle",
+    "beschreibung": "Die Stadt Bad Harzburg stellt sich ihrer Geschichte und plante eine Ausstellung zur historisch-politischen Entwicklung der sog. Harzburger Front im Jahr 1931 in den Wandhallen des Kurparks. Die Jahresprojektgruppe entwickelte gemeinsam mit den Historikern des Geschichtsvereins \"Spurensuche\" ein Austellungskonzept, das dem Geschehen, aber auch den besonderen Räumlichkeiten der Wandhalle, entspricht.",
+    "vorschaubild": "2009_0060_HarzburgerFront_01.jpg",
+    "bilder": [
+      "assets/0060/2009_0060_HarzburgerFront_020.jpg",
+      "assets/0060/2009_0060_HarzburgerFront_03.JPG",
+      "assets/0060/2009_0060_HarzburgerFront_04.JPG"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0061",
+    "titel": "Bundesgartenschau-Pavilion 2015",
+    "urheber": ["Tatjana Panarat", "Katharina", "Johannes Herbst"],
+    "raum": "Grafik Lab",
+    "dozent": "Prof. Eberhard Högerle",
+    "beschreibung": "Für die Veranstaltung \"Ausstellungs- und Museumskonzepte\" gestalteten die Studierende einen Pavillion für die Bundesgartenschau 2015.",
+    "vorschaubild": "2013_0061_Buga_030.jpg",
+    "bilder": [
+      "assets/0061/2013_0061_Buga_010.jpg",
+      "assets/0061/2013_0061_Buga_020.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0062",
+    "titel": "Bonhoeffer-Ausstellung",
+    "urheber": [
+      "Julia Wessle",
+      "Christina Thomas",
+      "Nicole Rüde",
+      "Lukas Siegmon",
+      "Lisa Manthei"
+    ],
+    "raum": "Grafik Lab",
+    "dozent": "Prof. Eberhard Högerle",
+    "beschreibung": "Im Rahmen des Jahresprojekts wurde die Ausstellung rund um die Familie Bonhoeffer in ihrem Ferienhaus in Friedrichsbrunn neukonzipiert und gestaltet. Die Studierenden bereiteten Texte und Bilder auf, entwickelten ein neues Corporate Design (Logo, Farbe) und erstellten Print- und Werbematerialien (Flyer, Roll-Ups, Homepage). Außerdem wurde die Austellung durch neue Exponate und eine Wandkarte mit den Ausflugszielen der Familie erweitert. Mehr zur Eröffnung der Bonhoeffer-Ausstellung unter http://www.medieninformatik.de/bonhoeffer-ausstellung-in-friedrichsbrunn-eroeffnet/",
+    "vorschaubild": "2014_0062_Bonhoeffer_01.jpg",
+    "bilder": [
+      "assets/0062/2014_0062_Bonhoeffer_02.jpg",
+      "assets/0062/2014_0062_Bonhoeffer_03.jpg",
+      "assets/0062/2014_0062_Bonhoeffer_04.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0063",
+    "titel": "Corporate Identity Medieninformatik",
+    "urheber": [
+      "Mathias Mielke",
+      "Caroline Rühling",
+      "Franziska Jedding",
+      "Monika-Sophie Wohlgemuth",
+      "Norman Henges",
+      "Lan Huong Nguyen"
+    ],
+    "raum": "Grafik Lab",
+    "dozent": "Dipl. Des. Florian Fischer, Prof. Eberhard Högerle, Prof. Ph.D. Jürgen Singer",
+    "beschreibung": "Nachdem die Corporate Identity der Hochschule Harz erneuert wurde, war es auch notwendig den Auftritt der Medieninformatik an die neuen Maßstäbe anzupassen. Die Jahresprojektgruppe sorgte deshalb dafür, dass ein neuer Styleguide inklusive eines neuen Logos erstellt wurde. Des Weiteren programmierten sie den Medieninformatik-Blog unter Berücksichtigung der technischen als auch neuen formalen Standards.",
+    "vorschaubild": "2014_0063_CI-MI_01.jpg",
+    "bilder": [
+      "assets/0063/2014_0063_CI-MI_020.jpg",
+      "assets/0063/2014_0063_CI-MI_030.jpg",
+      "assets/0063/2014_0063_CI-MI_04.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0064",
+    "titel": "Messestand Medieninformatik",
+    "urheber": [
+      "Mareike Gerloff",
+      "Christopher Hentrich",
+      "Marcel Jürß",
+      "Nils Mathias",
+      "Marcel Müller",
+      "Denise Wenzel"
+    ],
+    "raum": "3D-Lab",
+    "dozent": "Prof. Eberhard Högerle, Prof. Ph.D. Jürgen Singer",
+    "beschreibung": "Gemeinsam mit dem Messebauer \"Banse + Grohmann\" sollten die Studierenden bis zum Tag der offenen Tür im Sommer 2015 einen Messestand mit dem neuen Corporate Design der Hochschule und des Studiengangs konzipieren. Für das Jahresprojekt mussten sie sich somit zunächst mit Ausstellungskonzepten (Materialien, Design u.ä.) befassen. Im Anschluss gestalteten sie ihren eigenen Stand und integrierten dabei in die Multi-Touch-Bildschirme ein interaktives Programm, durch welches man allgemeine Informationen in Form von Interviews abrufen kann.",
+    "vorschaubild": "2015_0064_Messestand_01.jpg",
+    "bilder": [
+      "assets/0064/2015_0064_Messestand_02.jpg",
+      "assets/0064/2015_0064_Messestand_03.jpg",
+      "assets/0064/2015_0064_Messestand_04.jpg",
+      "assets/0064/2015_0064_Messestand_05.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0065",
+    "titel": "Ausstellung Kloster Ilsenburg",
+    "urheber": [
+      "Jessica Cramme",
+      "Luisa Drews",
+      "Deniese Gebhardt",
+      "Johannes Koch"
+    ],
+    "raum": "Projektraum",
+    "dozent": "Prof. Eberhard Högerle",
+    "beschreibung": "Dieses Jahresprojekt fokussierte sich darauf, einen Ausstellungsraum im Benediktinerkloster Ilsenburg zu gestalten mit dem Ziel, die Aufenthaltszeit von Wanderern und Touristen in Ilsenburg zu erhöhen. Dabei mussten die Themen Nachhaltigkeit, Waldnutzung im Harz und Hans Dietrich von Zanthie integriert werden. Die Gruppe entschied sich dazu auf der einen Seite eine eher emotionale Wand anzulegen, die den Besuchern den Wald auf der Gefühlsebene nahebringt und gleichzeitig Hauptaugenmerk des Raumes ist. Sie steht im bewussten Gegensatz zu der recht technisch und theoretisch anmutenden Infografik auf der angrenzenden Wand.",
+    "vorschaubild": "2016_0065_KlosterIlsenburg_01.jpg",
+    "bilder": [
+      "assets/0065/2016_0065_KlosterIlsenburg_02.jpg",
+      "assets/0065/2016_0065_KlosterIlsenburg_03.jpg",
+      "assets/0065/2016_0065_KlosterIlsenburg_04.jpg"
+    ],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0066",
+    "titel": "Hitzacker Interface",
+    "urheber": [
+      "Christian Schmalisch",
+      "Michael Wruck",
+      "Holger Lorenz",
+      "Petra Röse",
+      "Ivonne Bartock",
+      "Remo Fyda",
+      "Jörg Bauersfeld",
+      "Sebastian Goedecke"
+    ],
+    "raum": "Projektraum",
+    "dozent": "Prof. Eberhard Högerle, Prof. Martin Kreyßig",
+    "beschreibung": "Ziel dieses Projekts war es, ein virtuelles Stadtmodell für das Museum \"Altes Zollhaus\" in Hitzacker zu entwickeln und als Dauerexponat im Museum zu integrieren. Mit Hilfe eines \"sprechenden\", interaktiven Stadtmodells soll die Entwicklung der Stadt \"Hitzacker\" aufgezeigt und in Verbindung mit Personen und deren Biografie das Alltagsleben einzelner Berufsgruppen am Modell vorgestellt werden. Die multimediale Präsentation der Stadtgeschichte Hitzackers erforderte einen Balanceakt zwischen mittelalterlicher Architektur und moderner Technik.",
+    "vorschaubild": "2006_0066_HitzackerInterface_01.jpg",
+    "bilder": [],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0067",
+    "titel": "Entenangeln",
+    "urheber": ["Jessica Wymark", "Charlie Fecher"],
+    "raum": "Multimedia Lab",
+    "dozent": "Simon Adler",
+    "beschreibung": "Dieses Projekt wurde erstellt von dem Team Charlien Fecher und Jessica Wymark und angefertigt bei Prof. Dr.-Ing. Simon Adler in der BFO Ausgewählte Themen der Mixed Reality. Für diese Abgabe galt es eine Art Jahrmarktstand in der Welt der Virtual Reality aufzubauen und umzusetzen. In ihrer gemeinsamen Arbeit in der Erstellung von 3D Modellen und der Entwicklung des Codes, sodass es auch spielbar ist, haben diese zwei Studentinnen ein Schauplatz in dem Entwicklungsprogramm Unity kreiert, welches sich mit mittels einer VR-Brille bedienen lässt.",
+    "vorschaubild": "duckies.png",
+    "bilder": ["assets/0067/Ducks_screenshot.png", "assets/0067/duckies.png"],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0068",
+    "titel": "Bouncing Ball",
+    "urheber": ["Julius Borkowski"],
+    "raum": "Multimedia Lab",
+    "dozent": "Daniel Ackermann",
+    "beschreibung": "Dies ist ein Beispieltext für die Projekt. Dieser sollte circa 3-4 Sätze lang sein und die wesentlichen Aspekte des Projektes umfassen.",
+    "vorschaubild": "",
+    "bilder": [],
+    "videos": ["https://www.youtube.com/watch?v=KLJY0cJc_FM"],
+    "audios": []
+  },
+  {
+    "id": "0069",
+    "titel": "You Want",
+    "urheber": ["Cassandra Schmidt"],
+    "raum": "Grafik Lab",
+    "dozent": "Gregor Theune",
+    "beschreibung": "Dies ist ein Beispieltext für die Projekt. Dieser sollte circa 3-4 Sätze lang sein und die wesentlichen Aspekte des Projektes umfassen.",
+    "vorschaubild": "Plakat1.JPG",
+    "bilder": ["assets/0069/Plakat1.JPG", "assets/0069/Plakat2.JPG"],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0070",
+    "titel": "Medieninformatik Plakat",
+    "urheber": ["Cassandra Schmidt"],
+    "raum": "Grafik Lab",
+    "dozent": "Gregor Theune",
+    "beschreibung": "Dies ist ein Beispieltext für die Projekt. Dieser sollte circa 3-4 Sätze lang sein und die wesentlichen Aspekte des Projektes umfassen.",
+    "vorschaubild": "Abgabe-PS11.png",
+    "bilder": ["assets/0070/Abgabe-PS11.png"],
+    "videos": [],
+    "audios": []
+  },
+  {
+    "id": "0071",
+    "titel": "Gedicht",
+    "urheber": ["Cassandra Schmidt"],
+    "raum": "Sprecherkabine",
+    "dozent": "Martin Kreyßig",
+    "beschreibung": "Dies ist ein Beispieltext für die Projekt. Dieser sollte circa 3-4 Sätze lang sein und die wesentlichen Aspekte des Projektes umfassen.",
+    "vorschaubild": "",
+    "bilder": [],
+    "videos": [],
+    "audios": ["assets/0071/cassandra_schmidt_uebung2.wav"]
+  }
 ]
