@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="assets/css/normalize.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <title>3D Lab - Haus 9</title>
+  </head>
+  <body>
+    <!--Main Top Navigation-->
+    <header>
+      <nav>
+        <a href="index.html" class="logo"><img src="assets/img/logo-v2.svg" alt="Logo"><p>Papierfabrik<br /><span>Haus 9</span></p></a>
+        <ul>
+          <li>
+            <div class="dropdown">
+              <a class="item" id="item-dropdown-1" onclick="dropDownMenu(1);">Erdgeschoss ▼</a>
+              <div class="dropdown-content" id="dropdown-content-1">
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="https://www.hs-harz.de/bibliothek">Bibliothek</a>
+                  <div class="btn-wrapper">
+                    <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="bibliothek-360.html"></a>
+                  </div>
+                </div>
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="audimax.html">AudiMax</a>
+                  <div class="btn-wrapper">
+                    <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="audimax-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="audimax.html"></a>
+                  </div>
+                </div>
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="studio.html">Studio</a>
+                  <div class="btn-wrapper">
+                    <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="studio-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="studio.html"></a>
+                  </div>
+                </div>
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="audio-studio.html">Audiostudio</a>
+                  <div class="btn-wrapper">
+                    <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="audio-studio-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="audio-studio.html"></a>
+                  </div>
+                </div>
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="sprecherkabine.html">Sprecherkabine</a>
+                  <div class="btn-wrapper">
+                    <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="sprecherkabine-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="sprecherkabine.html"></a>
+                  </div>
+                </div>
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="https://www.hs-harz.de/studium/fb-automatisierung-und-informatik/labore/medienleihe">Medienausleihe</a>
+                  <div class="btn-wrapper">
+                  </div>
+                </div>
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="redaktion.html">Redaktion</a>
+                  <div class="btn-wrapper">
+                    <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="redaktion-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="redaktion.html"></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li><div class="dropdown">
+            <div class="item" id="item-dropdown-2" onclick="dropDownMenu(2);">Zwischengeschoss ▼</div>
+            <div class="dropdown-content" id="dropdown-content-2">
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="editsuite.html">Editsuite 1</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="editsuite-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="editsuite.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="editsuite.html">Editsuite 2</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="editsuite-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="editsuite.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="editsuite.html">Editsuite 3</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="editsuite-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="editsuite.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="editsuite.html">Editsuite 4</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="editsuite-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="editsuite.html"></a>
+                </div>
+              </div>
+            </div>
+          </div></li>
+          <li><div class="dropdown">
+            <div class="item" id="item-dropdown-3" onclick="dropDownMenu(3);">Obergeschoss ▼</div>
+            <div class="dropdown-content" id="dropdown-content-3">
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="print-lab.html">Print-Lab</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="print-lab-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="print-lab.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="projektraum.html">Projektraum</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="projektraum-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="projektraum.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="grafik-lab.html">Grafik-Lab</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="grafik-lab-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="grafik-lab.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="3d-lab.html">3D-Lab</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="3d-lab-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="3d-lab.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="multimedia-lab.html">Multimedia-Lab</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="multimedia-lab-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="multimedia-lab.html"></a>
+                </div>
+              </div>
+            </div>
+          </div></li>
+          <li><div class="dropdown">
+            <div class="item" id="item-dropdown-4" onclick="dropDownMenu(4);">Dachgeschoss ▼</div>
+            <div class="dropdown-content" id="dropdown-content-4">
+              <div class="dropdown-content-item">
+                <span class="overflow"><p><a class="dropdown-item-link" href="seit.html">Software Engineering & Internet Technologies (SEIT)</a></p></span>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="seit-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="seit.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <span class="overflow"><p><a class="dropdown-item-link" href="games-lab.html">Games-Lab / Motion Capture Lab</a></p></span>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="games-lab-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="games-lab.html"></a>
+                </div>
+              </div>
+            </div>
+          </div></li>
+          <li><div class="dropdown">
+            <div class="item" id="item-dropdown-5" onclick="dropDownMenu(5)">Büros ▼</div>
+            <div class="dropdown-content" id="dropdown-content-5">
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="https://www.hs-harz.de/dwilhelm/zur-person">Prof. Dominik Wilhelm</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="https://www.hs-harz.de/gtheune/zur-person">Gregor Theune</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="https://www.hs-harz.de/mkreyssig/zur-person">Prof. Martin Kreyßig</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="https://www.hs-harz.de/dackermann/zur-person">Prof. Daniel Ackermann</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="https://www.hs-harz.de/jsinger/zur-person">Prof. Jürgen Singer, PH.D.</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="https://www.hs-harz.de/studium/fb-automatisierung-und-informatik/medieninformatik/dozenten-und-mitarbeiter">Jessica Krecisz</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="https://www.hs-harz.de/odroegehorn/zur-person">Prof. Dr. Olaf Drögehorn</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="https://www.hs-harz.de/studium/fb-automatisierung-und-informatik/medieninformatik/dozenten-und-mitarbeiter">Mike Brückmann</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="https://www.hs-harz.de/studium/fb-automatisierung-und-informatik/medieninformatik/dozenten-und-mitarbeiter">Eric Schwenke</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="https://www.hs-harz.de/studium/fb-automatisierung-und-informatik/medieninformatik/dozenten-und-mitarbeiter">Andreas Schubert</a>
+              </div>
+            </div>
+          </div></li>
+        </ul>
+      </nav>
+    </header>
+    <!--/Navigation-->
+
+    <!--Projects Content-->
+    <div class="room-wrapper">
+      <div class="room-intro-section">
+        <h3>Raum 9.327</h3>
+        <div style="display: flex; align-items: center; justify-content: space-between;">
+          <h1 id="room-name">3D-Lab</h1>
+          <a href="3d-lab-360.html" id="room-to-360-link" style="position: absolute; top: 150px; right: 80px; z-index: 1;"> 3D-Lab 360°</a>
+        </div>
+        <h2>Zuständige Dozenten: Prof. Daniel Ackermann / Prof. Jürgen Singer, PH.D.</h2>
+        <p id="room-description">Dieses Labor wird vor allem für die Arbeit in 3D Programmen wie Maya oder Blender benutzt. Dabei ermöglichen die leistungsstarken Rechner Modeling, Animation und Rendering ohne lange Wartezeiten.</p>
+      </div>
+      <div id="grid" class="room-grid"></div>
+      <div class="modal" id="modal">
+        <div class="modal-header">
+          <div class="title" id="modal-title">Heading</div>
+          <button class="close-button" onclick="closeModal()">&times;</button>
+        </div>
+        <div class="modal-body">
+          <p class="modal-description" id="modal-description">Description</p>
+          <p class="author" id="author">Author</p>
+        
+          <div class="carousel-container" id="carousel-container">
+            <div class="carousel-slide" id="carousel-slide">
+              
+            </div>
+            <div style="display: flex; margin: 10px 0 6px 0">
+              <div id="prev-BTN"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M16.67 0l2.83 2.829-9.339 9.175 9.339 9.167-2.83 2.829-12.17-11.996z"/></svg></div>
+              <div id="next-BTN"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M7.33 24l-2.83-2.829 9.339-9.175-9.339-9.167 2.83-2.829 12.17 11.996z"/></svg></div>
+            </div>
+          </div>
+          <div class="video-container" id="video-container">
+
+          </div>
+          <div class="audio-container" id="audio-container">
+            
+          </div>
+        </div>
+      </div>
+      <div id="overlay"></div>
+    </div>
+    <!--/Projects Content-->
+    <div id="credits-for-projects">
+      <img src="assets/img/logo-hochschule-harz.png" alt="Hochschule Harz">
+    </div>
+    <script src="assets/js/navbarDropdown.js"></script>
+    <script src="assets/js/appendData.js"></script>
+  </body>
+</html>

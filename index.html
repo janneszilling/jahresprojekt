@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="assets/css/normalize.css" />
+    <link rel="stylesheet" href="assets/css/style.css" />
+    <title>Haus 9</title>
+
+    <!--Unity-->
+    <script src="Build/UnityLoader.js"></script>
+    <script>
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/website.json");
+    </script>
+    <!--/Unity-->
+
+  </head>
+    <!--Main Top Navigation-->
+    <header>
+      <nav>
+        <a href="index.html" class="logo"><img src="assets/img/logo-v2.svg" alt="Logo"><p>Papierfabrik<br /><span>Haus 9</span></p></a>
+        <ul>
+          <li>
+            <div class="dropdown">
+              <a class="item" id="item-dropdown-1" onclick="dropDownMenu(1); unityInstance.SendMessage('JavascriptHook', 'EGVisible')">Erdgeschoss ▼</a>
+              <div class="dropdown-content" id="dropdown-content-1">
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'Bib')">Bibliothek</a>
+                  <div class="btn-wrapper">
+                    <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="bibliothek-360.html"></a>
+                  </div>
+                </div>
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'Audimax')">AudiMax</a>
+                  <div class="btn-wrapper">
+                    <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="audimax-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="audimax.html"></a>
+                  </div>
+                </div>
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'studio')">Studio</a>
+                  <div class="btn-wrapper">
+                    <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="studio-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="studio.html"></a>
+                  </div>
+                </div>
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'edit1')">Audiostudio</a>
+                  <div class="btn-wrapper">
+                    <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="audio-studio-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="audio-studio.html"></a>
+                  </div>
+                </div>
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'edit')">Sprecherkabine</a>
+                  <div class="btn-wrapper">
+                    <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="sprecherkabine-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="sprecherkabine.html"></a>
+                  </div>
+                </div>
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'medienleihe')">Medienausleihe</a>
+                  <div class="btn-wrapper">
+                  </div>
+                </div>
+                <div class="dropdown-content-item">
+                  <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'meeting')">Redaktion</a>
+                  <div class="btn-wrapper">
+                    <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="#"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="#"></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li><div class="dropdown">
+            <div class="item" id="item-dropdown-2" onclick="dropDownMenu(2); unityInstance.SendMessage('JavascriptHook', 'ZGVisible')">Zwischengeschoss ▼</div>
+            <div class="dropdown-content" id="dropdown-content-2">
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'ZG_editsuite2')">Editsuite 1</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="editsuite-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="editsuite.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'ZG_editsuite3')">Editsuite 2</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="editsuite-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="editsuite.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'ZG_editsuite')">Editsuite 3</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="editsuite-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="editsuite.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'ZG_editsuite4')">Editsuite 4</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="editsuite-360.html"></a>
+                    <a data-title="Projektansicht" class="sqr-btn btn-projects" href="editsuite.html"></a>
+                </div>
+              </div>
+            </div>
+          </div></li>
+          <li><div class="dropdown">
+            <div class="item" id="item-dropdown-3" onclick="dropDownMenu(3); unityInstance.SendMessage('JavascriptHook', 'OGVisible')">Obergeschoss ▼</div>
+            <div class="dropdown-content" id="dropdown-content-3">
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'OG_Print_Lab_9_317')">Print-Lab</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="print-lab-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="print-lab.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'OG_Projektraum_9_324')">Projektraum</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="projektraum-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="projektraum.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'OG_Grafik_Lab_9_326')">Grafik-Lab</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="grafik-lab-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="grafik-lab.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'OG_Lab_3D_9_327')">3D-Lab</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="3d-lab-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="3d-lab.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'OG_Multimedia_Lab_9_328')">Multimedia-Lab</a>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="multimedia-lab-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="multimedia.html"></a>
+                </div>
+              </div>
+            </div>
+          </div></li>
+          <li><div class="dropdown">
+            <div class="item" id="item-dropdown-4" onclick="dropDownMenu(4); unityInstance.SendMessage('JavascriptHook', 'DGVisible')">Dachgeschoss ▼</div>
+            <div class="dropdown-content" id="dropdown-content-4">
+              <div class="dropdown-content-item">
+                <span class="overflow"><p><a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'DG_R9_328_Software_Engineering')">Software Engineering & Internet Technologies (SEIT)</a></p></span>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="seit-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="seit.html"></a>
+                </div>
+              </div>
+              <div class="dropdown-content-item">
+                <span class="overflow"><p><a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'DG_R9_429_MoCap')">Games-Lab / Motion Capture Lab</a></p></span>
+                <div class="btn-wrapper">
+                  <a data-title="360°-Bild-Ansicht" class="sqr-btn btn-360" href="games-lab-360.html"></a>
+                  <a data-title="Projektansicht" class="sqr-btn btn-projects" href="games-lab.html"></a>
+                </div>
+              </div>
+            </div>
+          </div></li>
+          <li><div class="dropdown">
+            <div class="item" id="item-dropdown-5" onclick="dropDownMenu(5)">Büros ▼</div>
+            <div class="dropdown-content" id="dropdown-content-5">
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'OGVisible'); unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'OG_Prof_Dominik_Wilhelm_9_318')">Prof. Dominik Wilhelm</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'OGVisible'); unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'OG_Gregor_Theune_9_319')">Gregor Theune</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'OGVisible'); unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'OG_Prof_Martin_Kreyssig_9_320')">Prof. Martin Kreyßig</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'OGVisible'); unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'OG_Prof_Daniel_Ackermann_9_322')">Prof. Daniel Ackermann</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'OGVisible'); unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'OG_Prof__Juergen_Singer_9_323')">Prof. Jürgen Singer, PH.D.</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'OGVisible'); unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'OG_Mike_Brueckmann_9_325')">Mike Brückmann</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'DGVisible'); unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'R9_426_Droegehorn')">Prof. Dr. Olaf Drögehorn</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'OGVisible'); unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'OG_9_321')">Jessica Krecisz</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'ZGVisible'); unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'ZG_editsuite1')">Eric Schwenke</a>
+              </div>
+              <div class="dropdown-content-item">
+                <a class="dropdown-item-link" href="#" onclick="unityInstance.SendMessage('JavascriptHook', 'ZGVisible'); unityInstance.SendMessage('JavascriptHook', 'SetRoomUIAndColorRoom', 'ZG_editsuite1')">Andreas Schubert</a>
+              </div>
+            </div>
+          </div></li>
+          <li>
+            <div id="toggle-btn-1" class="position-toggle-btn invisible">
+            </div>
+          </li>
+        </ul>
+      </nav>
+      <div id="toggle-btn-2" class="position-toggle-btn visible">
+      </div>
+    </header>
+    <!--/Navigation-->
+
+    <!--3D Model-->
+    <div id="unityContainer" style="width: 100%; height: 100vh; margin: 0 auto;"></div>
+    <div id="credits-for-3d-model">
+      <img src="assets/img/logo-hochschule-harz.png" alt="Hochschule Harz">
+      <a href="impressum.html">Impressum</a>
+      <a href="datenschutz.html">Datenschutz</a>
+    </div>
+    <!--/3D Model-->
+
+    <!--Projects Content-->
+    <div id="projectsContainer" class="projects-wrapper" style="display: none;">
+      <div class="projects-intro-section">
+        <h3>Medieninformatik | Medien- & Spielekonzeption</h3>
+        <h1>Raumübersicht</h1>
+        <p>
+          In der Raumübersicht findest du alle Räume von Haus 9 kompakt und nach Geschoss sortiert. Um mehr über einen Raum zu erfahren und die dort entstandenen Projekte zu entdecken, klicke einfach auf einen Raum.
+        </p>
+      </div>
+      <div class="projects-grid">
+        <div class="item1">
+          <h2>Erdgeschoss</h2>
+          <ul>
+            <li><a href="https://hs-harz.de/bibliothek">► Bibliothek, Raum 9.115</a></li>
+            <li><a href="audimax.html">► AudiMax, Raum 9.129</a></li>
+            <li><a href="studio.html">► Studio, Raum 9.136</a></li>
+            <li><a href="audio-studio.html">► Audiostudio, Räume 9.138 | 9.139</a></li>
+            <li><a href="https://www.hs-harz.de/studium/fb-automatisierung-und-informatik/labore/medienleihe">► Medienausleihe / Geräteraum, Raum 9.140</a></li>
+            <li><a href="redaktion.html">► Redaktion, Raum 9.141</a></li>
+          </ul>
+        </div>
+        <div class="item2">
+          <h2>Zwischengeschoss</h2>
+          <ul>
+            <li><a href="editsuite.html">► Editsuiten, Räume 9.225 | 9.226 | 9.227 | 9.228</a></li>
+          </ul>
+        </div>
+        <div class="item3">
+          <h2>Obergeschoss</h2>
+          <ul>
+            <li><a href="print-lab.html">► Print-Lab, Raum 9.317</a></li>
+            <li><a href="projektraum.html">► Projektraum, Raum 9.324</a></li>
+            <li><a href="grafik-lab.html">► Grafik-Lab, Raum 9.326</a></li>
+            <li><a href="3d-lab.html">► 3D-Lab, Räume 9.138 | 9.327</a></li>
+            <li><a href="multimedia-lab.html">► Multimedia-Lab, Raum 9.328</a></li>
+          </ul>
+        </div>
+        <div class="item4">
+          <h2>Dachgeschoss</h2>
+          <ul>
+            <li><a href="seit.html">► Software Engineering & Internet Technologies (SEIT), Raum 9.428</a></li>
+            <li><a href="games-lab.html">► Games Lab / Motion Capture / MoCap, Raum 9.429</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="credits-for-projects">
+        <img src="assets/img/logo-hochschule-harz.png" alt="Hochschule Harz">
+        <a href="impressum.html">Impressum</a>
+        <a href="datenschutz.html">Datenschutz</a>
+      </div>
+    </div>
+    <!--/Projects Content-->
+
+    <script src="assets/js/navbarDropdown.js"></script>
+    <script src="assets/js/toggleProjectsAnd3DModel.js"></script>
+    <script src="assets/js/mediaQueryToggleBTN.js"></script>
+  </body>
+</html>

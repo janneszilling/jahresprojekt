@@ -1,0 +1,16 @@
+{
+"companyName": "JahresprojektTheune",
+"productName": "3D-Model-Haus-9",
+"productVersion": "0.2",
+"dataUrl": "website.data.unityweb",
+"wasmCodeUrl": "website.wasm.code.unityweb",
+"wasmFrameworkUrl": "website.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.19f1"
+}

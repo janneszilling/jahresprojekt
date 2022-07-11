@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <path d="M6.083,4C7.463,5.612 8.661,7 11,7L22,7L22,20L2,20L2,4L6.083,4ZM7,2L0,2L0,22L24,22L24,5L11,5C9.371,5 8.695,3.942 7,2Z" style="fill:white;fill-rule:nonzero;"/>
+    <g id="pen-ruler-icon.svg" transform="matrix(0.5,0,0,0.5,12,13.5)">
+        <g transform="matrix(1,0,0,1,-12,-12)">
+            <clipPath id="_clip1">
+                <rect x="0" y="0" width="24" height="24"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <path d="M5.641,22.569L0,24L1.397,18.326L5.641,22.569ZM2.812,16.912L7.055,21.155L24,4.242L19.758,0L2.812,16.912ZM16.926,14.129L15.512,15.543L16.22,16.251L17.634,14.837L19.048,16.251L16.926,18.373L17.633,19.08L19.755,16.958L21.172,18.343L18.343,21.172L14.111,16.939L12.696,18.352L18.344,24L24,18.343L18.357,12.7L16.926,14.129ZM7.039,9.868L2.829,5.658L5.657,2.829L7.026,4.23L4.905,6.351L5.612,7.058L7.733,4.936L9.147,6.351L7.733,7.765L8.44,8.472L9.854,7.058L11.286,5.629L5.657,0L0,5.657L5.623,11.281L7.039,9.868Z" style="fill:white;fill-rule:nonzero;"/>
+            </g>
+        </g>
+    </g>
+</svg>
